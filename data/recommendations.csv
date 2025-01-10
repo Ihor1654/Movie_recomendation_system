@@ -1,0 +1,3051 @@
+userId,title,genres,prediction
+1,Seve (2014),Documentary|Drama,5.586313
+1,The Big Bus (1976),Action|Comedy,5.586313
+1,On the Beach (1959),Drama,5.558284
+1,Saving Face (2004),Comedy|Drama|Romance,5.5417786
+1,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.432544
+2,The Jinx: The Life and Deaths of Robert Durst (2015),Documentary,4.8246036
+2,De platte jungle (1978),Documentary,4.511175
+2,Blue Planet II (2017),Documentary,4.511175
+2,Nasu: Summer in Andalusia (2003),Animation,4.511175
+2,Bitter Lake (2015),Documentary,4.511175
+3,Alien Contamination (1980),Action|Horror|Sci-Fi,4.856885
+3,Galaxy of Terror (Quest) (1981),Action|Horror|Mystery|Sci-Fi,4.856885
+3,Android (1982),Sci-Fi,4.778965
+3,Death Race 2000 (1975),Action|Sci-Fi,4.777203
+3,Hangar 18 (1980),Action|Sci-Fi|Thriller,4.77299
+4,L.I.E. (2001),Drama,4.7069607
+4,Beautiful Thing (1996),Drama|Romance,4.6951027
+4,Afterglow (1997),Drama|Romance,4.6720133
+4,Seve (2014),Documentary|Drama,4.623643
+4,The Big Bus (1976),Action|Comedy,4.623643
+5,Seve (2014),Documentary|Drama,4.6654754
+5,The Big Bus (1976),Action|Comedy,4.6654754
+5,On the Beach (1959),Drama,4.5728426
+5,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.5505013
+5,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.5479093
+6,Saving Face (2004),Comedy|Drama|Romance,4.836688
+6,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.729935
+6,Strictly Sexual (2008),Comedy|Drama|Romance,4.6966877
+6,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.6689425
+6,Thief (1981),Crime|Drama|Thriller,4.626278
+7,On the Beach (1959),Drama,4.5999827
+7,Come and See (Idi i smotri) (1985),Drama|War,4.5723333
+7,"Jetée, La (1962)",Romance|Sci-Fi,4.524705
+7,Seve (2014),Documentary|Drama,4.4413095
+7,The Big Bus (1976),Action|Comedy,4.4413095
+8,On the Beach (1959),Drama,4.7634773
+8,Saving Face (2004),Comedy|Drama|Romance,4.571025
+8,Cosmos,(no genres listed),4.552795
+8,Seve (2014),Documentary|Drama,4.480428
+8,The Big Bus (1976),Action|Comedy,4.480428
+9,On the Beach (1959),Drama,4.6942496
+9,Seve (2014),Documentary|Drama,4.594099
+9,The Big Bus (1976),Action|Comedy,4.594099
+9,Belle époque (1992),Comedy|Romance,4.592633
+9,Gallipoli (1981),Drama|War,4.5590367
+10,"Education, An (2009)",Drama|Romance,4.402545
+10,The Hundred-Foot Journey (2014),Comedy|Drama,4.3586884
+10,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.33703
+10,Priceless (Hors de prix) (2006),Comedy|Romance,4.297655
+10,First Daughter (2004),Comedy|Romance,4.2926817
+11,On the Beach (1959),Drama,5.0308423
+11,"Visitor, The (2007)",Drama|Romance,4.830534
+11,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.7734575
+11,Cosmos,(no genres listed),4.763202
+11,"Imposter, The (2012)",Documentary,4.733678
+12,Adam's Rib (1949),Comedy|Romance,5.546658
+12,Strictly Sexual (2008),Comedy|Drama|Romance,5.536793
+12,Saving Face (2004),Comedy|Drama|Romance,5.443357
+12,"Very Potter Sequel, A (2010)",Comedy|Musical,5.43285
+12,12 Angry Men (1997),Crime|Drama,5.43285
+13,On the Beach (1959),Drama,5.0729046
+13,Saving Face (2004),Comedy|Drama|Romance,4.8714423
+13,Cosmos,(no genres listed),4.8079586
+13,Belle époque (1992),Comedy|Romance,4.7470083
+13,North & South (2004),Drama|Romance,4.721071
+14,De platte jungle (1978),Documentary,4.6295614
+14,Blue Planet II (2017),Documentary,4.6295614
+14,Nasu: Summer in Andalusia (2003),Animation,4.6295614
+14,Bitter Lake (2015),Documentary,4.6295614
+14,Watermark (2014),Documentary,4.6295614
+15,"Visitor, The (2007)",Drama|Romance,4.597323
+15,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,4.555955
+15,On the Beach (1959),Drama,4.328862
+15,Dune (2000),Drama|Fantasy|Sci-Fi,4.322562
+15,Battlestar Galactica (2003),Drama|Sci-Fi|War,4.2891974
+16,On the Beach (1959),Drama,4.49952
+16,Saving Face (2004),Comedy|Drama|Romance,4.2510333
+16,"Jetée, La (1962)",Romance|Sci-Fi,4.2080255
+16,Cosmos,(no genres listed),4.198633
+16,Belle époque (1992),Comedy|Romance,4.1846194
+17,On the Beach (1959),Drama,5.103811
+17,Saving Face (2004),Comedy|Drama|Romance,4.8822303
+17,Seve (2014),Documentary|Drama,4.879365
+17,The Big Bus (1976),Action|Comedy,4.879365
+17,Cosmos,(no genres listed),4.828145
+18,On the Beach (1959),Drama,4.898711
+18,Saving Face (2004),Comedy|Drama|Romance,4.747779
+18,Cosmos,(no genres listed),4.674421
+18,Belle époque (1992),Comedy|Romance,4.5864615
+18,De platte jungle (1978),Documentary,4.5645986
+19,Saving Face (2004),Comedy|Drama|Romance,3.918238
+19,On the Beach (1959),Drama,3.9161174
+19,Oxygen (1999),Crime|Drama|Thriller,3.7956326
+19,Candleshoe (1977),Adventure|Children|Comedy,3.7956326
+19,"Jetée, La (1962)",Romance|Sci-Fi,3.7374642
+20,Seve (2014),Documentary|Drama,5.155164
+20,The Big Bus (1976),Action|Comedy,5.155164
+20,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.014241
+20,"Day at the Races, A (1937)",Comedy|Musical,4.8590426
+20,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.853806
+21,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.6723313
+21,Strictly Sexual (2008),Comedy|Drama|Romance,4.5035114
+21,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,4.429745
+21,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,4.211841
+21,"Visitor, The (2007)",Drama|Romance,4.139859
+22,Bossa Nova (2000),Comedy|Drama|Romance,4.053421
+22,Midnight Cowboy (1969),Drama,3.9969702
+22,Stanley Kubrick: A Life in Pictures (2001),Documentary,3.8791926
+22,Seve (2014),Documentary|Drama,3.6450338
+22,The Big Bus (1976),Action|Comedy,3.6450338
+23,On the Beach (1959),Drama,4.5077205
+23,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.2851496
+23,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.1350327
+23,"Samouraï, Le (Godson, The) (1967)",Crime|Drama|Thriller,4.130455
+23,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.0888534
+24,On the Beach (1959),Drama,4.6770263
+24,Saving Face (2004),Comedy|Drama|Romance,4.566051
+24,Cosmos,(no genres listed),4.455076
+24,"Visitor, The (2007)",Drama|Romance,4.3731503
+24,Deathgasm (2015),Comedy|Horror,4.350336
+25,On the Beach (1959),Drama,5.648426
+25,Saving Face (2004),Comedy|Drama|Romance,5.580171
+25,Come and See (Idi i smotri) (1985),Drama|War,5.447579
+25,"Jetée, La (1962)",Romance|Sci-Fi,5.4312487
+25,Cosmos,(no genres listed),5.365754
+26,On the Beach (1959),Drama,4.357634
+26,Saving Face (2004),Comedy|Drama|Romance,4.21319
+26,Seve (2014),Documentary|Drama,4.140956
+26,The Big Bus (1976),Action|Comedy,4.140956
+26,Cosmos,(no genres listed),4.13699
+27,"Very Potter Sequel, A (2010)",Comedy|Musical,4.551759
+27,12 Angry Men (1997),Crime|Drama,4.551759
+27,Mr. Skeffington (1944),Drama|Romance,4.551759
+27,Guess Who's Coming to Dinner (1967),Drama,4.539225
+27,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.514413
+28,"Visitor, The (2007)",Drama|Romance,4.2683477
+28,Dune (2000),Drama|Fantasy|Sci-Fi,4.0180693
+28,On the Beach (1959),Drama,3.9704742
+28,Children of Dune (2003),Fantasy|Sci-Fi,3.9639647
+28,Once (2006),Drama|Musical|Romance,3.8289344
+29,On the Beach (1959),Drama,5.219339
+29,"Jetée, La (1962)",Romance|Sci-Fi,4.9499564
+29,Cosmos,(no genres listed),4.8545823
+29,Saving Face (2004),Comedy|Drama|Romance,4.8402824
+29,Come and See (Idi i smotri) (1985),Drama|War,4.8317924
+30,Saving Face (2004),Comedy|Drama|Romance,5.5862827
+30,On the Beach (1959),Drama,5.463724
+30,Strictly Sexual (2008),Comedy|Drama|Romance,5.423428
+30,North & South (2004),Drama|Romance,5.3347564
+30,Cosmos,(no genres listed),5.288328
+31,Saving Face (2004),Comedy|Drama|Romance,5.178916
+31,On the Beach (1959),Drama,4.897477
+31,North & South (2004),Drama|Romance,4.884103
+31,Cosmos,(no genres listed),4.7519646
+31,Adam's Rib (1949),Comedy|Romance,4.7412543
+32,On the Beach (1959),Drama,4.9216833
+32,Seve (2014),Documentary|Drama,4.805548
+32,The Big Bus (1976),Action|Comedy,4.805548
+32,Saving Face (2004),Comedy|Drama|Romance,4.786512
+32,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.70778
+33,Seve (2014),Documentary|Drama,4.7986345
+33,The Big Bus (1976),Action|Comedy,4.7986345
+33,Ponette (1996),Drama,4.761515
+33,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6745834
+33,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",Drama,4.6508827
+34,Strictly Sexual (2008),Comedy|Drama|Romance,4.5713267
+34,Saving Face (2004),Comedy|Drama|Romance,4.4839706
+34,Emma (2009),Comedy|Drama|Romance,4.4838886
+34,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,4.4198537
+34,On the Beach (1959),Drama,4.37908
+35,Seve (2014),Documentary|Drama,5.314338
+35,The Big Bus (1976),Action|Comedy,5.314338
+35,On the Beach (1959),Drama,5.194547
+35,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.1867557
+35,Saving Face (2004),Comedy|Drama|Romance,5.135575
+36,Never Cry Wolf (1983),Adventure|Drama,3.7159598
+36,Reign Over Me (2007),Drama,3.5380795
+36,Lady Jane (1986),Drama|Romance,3.4896324
+36,Crossing Delancey (1988),Comedy|Romance,3.4896324
+36,"Impostors, The (1998)",Comedy,3.4896324
+37,Come and See (Idi i smotri) (1985),Drama|War,5.602029
+37,"Jetée, La (1962)",Romance|Sci-Fi,5.5908127
+37,On the Beach (1959),Drama,5.506467
+37,Saving Face (2004),Comedy|Drama|Romance,5.412246
+37,Cosmos,(no genres listed),5.297193
+38,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,4.3725967
+38,Seve (2014),Documentary|Drama,4.3043604
+38,The Big Bus (1976),Action|Comedy,4.3043604
+38,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.1879044
+38,On the Beach (1959),Drama,4.170454
+39,On the Beach (1959),Drama,5.2220974
+39,"Jetée, La (1962)",Romance|Sci-Fi,5.04694
+39,Come and See (Idi i smotri) (1985),Drama|War,5.014485
+39,Cosmos,(no genres listed),4.800867
+39,Saving Face (2004),Comedy|Drama|Romance,4.7186103
+40,On the Beach (1959),Drama,5.145803
+40,Saving Face (2004),Comedy|Drama|Romance,5.0405307
+40,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.9388413
+40,Seve (2014),Documentary|Drama,4.925987
+40,The Big Bus (1976),Action|Comedy,4.925987
+41,Wild Tales (2014),Comedy|Drama|Thriller,4.243567
+41,Prisoners (2013),Drama|Mystery|Thriller,4.2267294
+41,Larry David: Curb Your Enthusiasm (1999),Comedy,4.0646553
+41,Chungking Express (Chung Hing sam lam) (1994),Drama|Mystery|Romance,4.0434914
+41,Rosemary's Baby (1968),Drama|Horror|Thriller,4.010639
+42,Seve (2014),Documentary|Drama,4.9137363
+42,The Big Bus (1976),Action|Comedy,4.9137363
+42,"Visitor, The (2007)",Drama|Romance,4.9118433
+42,On the Beach (1959),Drama,4.8453207
+42,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.777442
+43,Seve (2014),Documentary|Drama,5.6754766
+43,The Big Bus (1976),Action|Comedy,5.6754766
+43,Saving Face (2004),Comedy|Drama|Romance,5.626638
+43,3-Iron (Bin-jip) (2004),Drama|Romance,5.5284233
+43,"Day at the Races, A (1937)",Comedy|Musical,5.4848437
+44,On the Beach (1959),Drama,4.8777695
+44,Seve (2014),Documentary|Drama,4.802219
+44,The Big Bus (1976),Action|Comedy,4.802219
+44,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6320662
+44,True Grit (1969),Adventure|Drama|Western,4.5096087
+45,On the Beach (1959),Drama,5.2072897
+45,Saving Face (2004),Comedy|Drama|Romance,5.157783
+45,Strictly Sexual (2008),Comedy|Drama|Romance,5.1144056
+45,Cosmos,(no genres listed),5.088944
+45,De platte jungle (1978),Documentary,5.046479
+46,Saving Face (2004),Comedy|Drama|Romance,5.267514
+46,On the Beach (1959),Drama,5.18197
+46,Cosmos,(no genres listed),5.026352
+46,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.9779105
+46,De platte jungle (1978),Documentary,4.9606795
+47,Reign Over Me (2007),Drama,4.375665
+47,Jason's Lyric (1994),Crime|Drama,4.2959905
+47,Half Nelson (2006),Drama,4.1357784
+47,My Sister's Keeper (2009),Drama,3.8186576
+47,3-Iron (Bin-jip) (2004),Drama|Romance,3.7096004
+48,Saving Face (2004),Comedy|Drama|Romance,5.2853336
+48,On the Beach (1959),Drama,5.1311235
+48,Cosmos,(no genres listed),5.019421
+48,De platte jungle (1978),Documentary,4.9806156
+48,Blue Planet II (2017),Documentary,4.9806156
+49,On the Beach (1959),Drama,5.0838895
+49,Saving Face (2004),Comedy|Drama|Romance,5.0634065
+49,Cosmos,(no genres listed),4.922397
+49,De platte jungle (1978),Documentary,4.8525133
+49,Blue Planet II (2017),Documentary,4.8525133
+50,On the Beach (1959),Drama,3.8354328
+50,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,3.7867765
+50,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,3.7683
+50,All Watched Over by Machines of Loving Grace (2011),Documentary,3.7060683
+50,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,3.673145
+51,On the Beach (1959),Drama,5.2984715
+51,Belle époque (1992),Comedy|Romance,5.0322757
+51,Saving Face (2004),Comedy|Drama|Romance,5.0254173
+51,Cosmos,(no genres listed),5.0156355
+51,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.9890494
+52,On the Beach (1959),Drama,5.5335402
+52,Saving Face (2004),Comedy|Drama|Romance,5.526643
+52,Cosmos,(no genres listed),5.3753405
+52,Strictly Sexual (2008),Comedy|Drama|Romance,5.321372
+52,De platte jungle (1978),Documentary,5.3101482
+53,On the Beach (1959),Drama,6.451733
+53,Saving Face (2004),Comedy|Drama|Romance,6.441558
+53,Cosmos,(no genres listed),6.326935
+53,De platte jungle (1978),Documentary,6.2878246
+53,Blue Planet II (2017),Documentary,6.2878246
+54,On the Beach (1959),Drama,3.8426409
+54,Saving Face (2004),Comedy|Drama|Romance,3.7945664
+54,Cosmos,(no genres listed),3.724221
+54,Seve (2014),Documentary|Drama,3.7197473
+54,The Big Bus (1976),Action|Comedy,3.7197473
+55,Layer Cake (2004),Crime|Drama|Thriller,4.244019
+55,"Boondock Saints, The (2000)",Action|Crime|Drama|Thriller,4.2293367
+55,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.2238727
+55,Revolver (2005),Crime|Drama|Thriller,4.2046623
+55,On the Beach (1959),Drama,4.1781855
+56,On the Beach (1959),Drama,5.034078
+56,Saving Face (2004),Comedy|Drama|Romance,4.997279
+56,Cosmos,(no genres listed),4.8946233
+56,Come and See (Idi i smotri) (1985),Drama|War,4.846813
+56,De platte jungle (1978),Documentary,4.8380775
+57,On the Beach (1959),Drama,4.8672028
+57,Seve (2014),Documentary|Drama,4.5501842
+57,The Big Bus (1976),Action|Comedy,4.5501842
+57,"Jetée, La (1962)",Romance|Sci-Fi,4.544554
+57,"General, The (1926)",Comedy|War,4.4627037
+58,Saving Face (2004),Comedy|Drama|Romance,5.0892763
+58,Lady Jane (1986),Drama|Romance,5.0711374
+58,Crossing Delancey (1988),Comedy|Romance,5.0711374
+58,"Impostors, The (1998)",Comedy,5.0711374
+58,Adam's Rib (1949),Comedy|Romance,4.9863997
+59,On the Beach (1959),Drama,5.3790417
+59,"Jetée, La (1962)",Romance|Sci-Fi,5.164365
+59,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy,5.1156425
+59,Saving Face (2004),Comedy|Drama|Romance,5.108965
+59,Woman in the Dunes (Suna no onna) (1964),Drama,5.098093
+60,On the Beach (1959),Drama,4.6708536
+60,Saving Face (2004),Comedy|Drama|Romance,4.6364455
+60,3-Iron (Bin-jip) (2004),Drama|Romance,4.533336
+60,Cosmos,(no genres listed),4.4719973
+60,Seve (2014),Documentary|Drama,4.47046
+61,On the Beach (1959),Drama,5.076317
+61,"Jetée, La (1962)",Romance|Sci-Fi,4.90365
+61,Come and See (Idi i smotri) (1985),Drama|War,4.840383
+61,Saving Face (2004),Comedy|Drama|Romance,4.754063
+61,Cosmos,(no genres listed),4.7448974
+62,On the Beach (1959),Drama,5.2139215
+62,Saving Face (2004),Comedy|Drama|Romance,5.165322
+62,Cosmos,(no genres listed),5.1045456
+62,De platte jungle (1978),Documentary,5.0676694
+62,Blue Planet II (2017),Documentary,5.0676694
+63,Bill Hicks: Revelations (1993),Comedy,4.810494
+63,Dylan Moran: Monster (2004),Comedy|Documentary,4.810494
+63,Eddie Izzard: Dress to Kill (1999),Comedy,4.698063
+63,On the Beach (1959),Drama,4.6483793
+63,American: The Bill Hicks Story (2009),Comedy|Documentary,4.6414585
+64,On the Beach (1959),Drama,5.073614
+64,"Jetée, La (1962)",Romance|Sci-Fi,4.95494
+64,Come and See (Idi i smotri) (1985),Drama|War,4.9281
+64,Saving Face (2004),Comedy|Drama|Romance,4.884762
+64,Cosmos,(no genres listed),4.838131
+65,On the Beach (1959),Drama,4.8626537
+65,Cosmos,(no genres listed),4.719648
+65,De platte jungle (1978),Documentary,4.659895
+65,Blue Planet II (2017),Documentary,4.659895
+65,Nasu: Summer in Andalusia (2003),Animation,4.659895
+66,On the Beach (1959),Drama,5.353907
+66,Cosmos,(no genres listed),5.1888537
+66,Saving Face (2004),Comedy|Drama|Romance,5.163055
+66,De platte jungle (1978),Documentary,5.1183624
+66,Blue Planet II (2017),Documentary,5.1183624
+67,On the Beach (1959),Drama,4.827132
+67,Saving Face (2004),Comedy|Drama|Romance,4.6867495
+67,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,4.626455
+67,"Visitor, The (2007)",Drama|Romance,4.6004424
+67,"General, The (1926)",Comedy|War,4.5950274
+68,Strictly Sexual (2008),Comedy|Drama|Romance,4.7980943
+68,Saving Face (2004),Comedy|Drama|Romance,4.371813
+68,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.3371263
+68,What's Your Number? (2011),Comedy|Romance,4.318285
+68,"Stoning of Soraya M., The (2008)",Crime|Drama,4.318285
+69,On the Beach (1959),Drama,5.6141896
+69,Saving Face (2004),Comedy|Drama|Romance,5.4454265
+69,Cosmos,(no genres listed),5.2951703
+69,Seve (2014),Documentary|Drama,5.257987
+69,The Big Bus (1976),Action|Comedy,5.257987
+70,On the Beach (1959),Drama,5.3735204
+70,Seve (2014),Documentary|Drama,5.1526203
+70,The Big Bus (1976),Action|Comedy,5.1526203
+70,Saving Face (2004),Comedy|Drama|Romance,5.111546
+70,Cosmos,(no genres listed),5.089135
+71,Strictly Sexual (2008),Comedy|Drama|Romance,4.618808
+71,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.5805826
+71,Waydowntown (2000),Comedy,4.4193773
+71,Saving Face (2004),Comedy|Drama|Romance,4.333824
+71,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,4.333014
+72,On the Beach (1959),Drama,5.2437224
+72,Saving Face (2004),Comedy|Drama|Romance,5.0561333
+72,Cosmos,(no genres listed),4.997017
+72,Seve (2014),Documentary|Drama,4.917309
+72,The Big Bus (1976),Action|Comedy,4.917309
+73,On the Beach (1959),Drama,4.9348845
+73,Reign Over Me (2007),Drama,4.7483077
+73,Saving Face (2004),Comedy|Drama|Romance,4.7289557
+73,Cosmos,(no genres listed),4.7231846
+73,Strictly Sexual (2008),Comedy|Drama|Romance,4.702557
+74,On the Beach (1959),Drama,5.104522
+74,Seve (2014),Documentary|Drama,5.0475707
+74,The Big Bus (1976),Action|Comedy,5.0475707
+74,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.9987726
+74,All Watched Over by Machines of Loving Grace (2011),Documentary,4.947774
+75,Saving Face (2004),Comedy|Drama|Romance,3.9773378
+75,"Last Detail, The (1973)",Comedy|Drama,3.9632497
+75,On the Beach (1959),Drama,3.9619744
+75,Strictly Sexual (2008),Comedy|Drama|Romance,3.9548085
+75,Deathgasm (2015),Comedy|Horror,3.952865
+76,Saw VII 3D - The Final Chapter (2010),Horror|Mystery|Thriller,4.338905
+76,Saw VI (2009),Crime|Horror|Mystery|Thriller,4.079333
+76,Saw V (2008),Crime|Horror|Thriller,4.0462313
+76,Through a Glass Darkly (Såsom i en spegel) (1961),Drama,3.9311576
+76,"What's Up, Doc? (1972)",Comedy,3.9311576
+77,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.081585
+77,Strictly Sexual (2008),Comedy|Drama|Romance,5.0240545
+77,Saving Face (2004),Comedy|Drama|Romance,4.9395666
+77,"Visitor, The (2007)",Drama|Romance,4.840639
+77,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,4.7242136
+78,On the Beach (1959),Drama,4.2579656
+78,"Jetée, La (1962)",Romance|Sci-Fi,4.18681
+78,Come and See (Idi i smotri) (1985),Drama|War,4.1613417
+78,Supercop 2 (Project S) (Chao ji ji hua) (1993),Action|Comedy|Crime|Thriller,4.0789
+78,Seve (2014),Documentary|Drama,4.0645356
+79,On the Beach (1959),Drama,5.312035
+79,Seve (2014),Documentary|Drama,5.0239244
+79,The Big Bus (1976),Action|Comedy,5.0239244
+79,Saving Face (2004),Comedy|Drama|Romance,5.0050993
+79,"Jetée, La (1962)",Romance|Sci-Fi,4.9902096
+80,On the Beach (1959),Drama,5.3563375
+80,Saving Face (2004),Comedy|Drama|Romance,5.281087
+80,Cosmos,(no genres listed),5.254107
+80,"Visitor, The (2007)",Drama|Romance,5.225915
+80,De platte jungle (1978),Documentary,5.22249
+81,On the Beach (1959),Drama,3.97637
+81,"Visitor, The (2007)",Drama|Romance,3.7579865
+81,Battlestar Galactica (2003),Drama|Sci-Fi|War,3.748519
+81,Saving Face (2004),Comedy|Drama|Romance,3.6071613
+81,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,3.6050236
+82,Strictly Sexual (2008),Comedy|Drama|Romance,4.5668297
+82,De platte jungle (1978),Documentary,4.465405
+82,Blue Planet II (2017),Documentary,4.465405
+82,Nasu: Summer in Andalusia (2003),Animation,4.465405
+82,Bitter Lake (2015),Documentary,4.465405
+83,Cashback (2006),Comedy|Drama|Romance,4.3206406
+83,Roman Holiday (1953),Comedy|Drama|Romance,4.157606
+83,Band of Brothers (2001),Action|Drama|War,4.1248546
+83,Magnum Force (1973),Action|Crime|Drama|Thriller,4.124244
+83,Fantasia 2000 (1999),Animation|Children|Musical|IMAX,4.0798078
+84,Seve (2014),Documentary|Drama,4.7165456
+84,The Big Bus (1976),Action|Comedy,4.7165456
+84,On the Beach (1959),Drama,4.6847997
+84,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6094546
+84,Lady Jane (1986),Drama|Romance,4.594945
+85,Entertaining Angels: The Dorothy Day Story (1996),Drama,4.853596
+85,Lamerica (1994),Adventure|Drama,4.842876
+85,Reign Over Me (2007),Drama,4.6690974
+85,Ulee's Gold (1997),Drama,4.6110797
+85,Jason's Lyric (1994),Crime|Drama,4.502507
+86,Saving Face (2004),Comedy|Drama|Romance,4.940596
+86,On the Beach (1959),Drama,4.8560915
+86,Cosmos,(no genres listed),4.739821
+86,Strictly Sexual (2008),Comedy|Drama|Romance,4.7138715
+86,De platte jungle (1978),Documentary,4.6965656
+87,On the Beach (1959),Drama,5.149201
+87,Belle époque (1992),Comedy|Romance,4.9709597
+87,Seve (2014),Documentary|Drama,4.97042
+87,The Big Bus (1976),Action|Comedy,4.97042
+87,Saving Face (2004),Comedy|Drama|Romance,4.9546504
+88,On the Beach (1959),Drama,5.308452
+88,Saving Face (2004),Comedy|Drama|Romance,5.0011377
+88,"Jetée, La (1962)",Romance|Sci-Fi,4.99111
+88,Cosmos,(no genres listed),4.9742327
+88,Belle époque (1992),Comedy|Romance,4.936141
+89,All Yours (2016),Comedy|Drama|Romance,4.8216662
+89,Unicorn City (2012),Comedy|Romance,4.8216662
+89,A Perfect Day (2015),Comedy|Drama,4.8216662
+89,L.A. Slasher (2015),Comedy|Crime|Fantasy,4.8216662
+89,Ooops! Noah is Gone... (2015),Animation,4.8216662
+90,Seve (2014),Documentary|Drama,5.2945437
+90,The Big Bus (1976),Action|Comedy,5.2945437
+90,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.1667557
+90,"Jetée, La (1962)",Romance|Sci-Fi,5.08245
+90,Come and See (Idi i smotri) (1985),Drama|War,5.04992
+91,On the Beach (1959),Drama,4.8252254
+91,Saving Face (2004),Comedy|Drama|Romance,4.572882
+91,"Jetée, La (1962)",Romance|Sci-Fi,4.4652286
+91,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.4391975
+91,Come and See (Idi i smotri) (1985),Drama|War,4.4160547
+92,On the Beach (1959),Drama,5.3161325
+92,Saving Face (2004),Comedy|Drama|Romance,5.212258
+92,Seve (2014),Documentary|Drama,5.175149
+92,The Big Bus (1976),Action|Comedy,5.175149
+92,Cosmos,(no genres listed),5.1242166
+93,On the Beach (1959),Drama,5.7443495
+93,Saving Face (2004),Comedy|Drama|Romance,5.734475
+93,Cosmos,(no genres listed),5.586255
+93,De platte jungle (1978),Documentary,5.5223746
+93,Blue Planet II (2017),Documentary,5.5223746
+94,Saving Face (2004),Comedy|Drama|Romance,4.1354704
+94,On the Beach (1959),Drama,4.110763
+94,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.037603
+94,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,3.9798422
+94,Strictly Sexual (2008),Comedy|Drama|Romance,3.9197245
+95,On the Beach (1959),Drama,5.541587
+95,"Visitor, The (2007)",Drama|Romance,5.202376
+95,Seve (2014),Documentary|Drama,5.1940756
+95,The Big Bus (1976),Action|Comedy,5.1940756
+95,Cosmos,(no genres listed),5.1454215
+96,On the Beach (1959),Drama,5.1010013
+96,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama,5.038923
+96,Saving Face (2004),Comedy|Drama|Romance,4.9501257
+96,Lady Jane (1986),Drama|Romance,4.947248
+96,Crossing Delancey (1988),Comedy|Romance,4.947248
+97,Strictly Sexual (2008),Comedy|Drama|Romance,5.5498195
+97,Saving Face (2004),Comedy|Drama|Romance,5.5259895
+97,On the Beach (1959),Drama,5.2832885
+97,"In the blue sea, in the white foam. (1984)",Animation|Children|Fantasy,5.242115
+97,Obsession (1965),Comedy,5.242115
+98,Come and See (Idi i smotri) (1985),Drama|War,5.064045
+98,"Jetée, La (1962)",Romance|Sci-Fi,5.0165973
+98,Saving Face (2004),Comedy|Drama|Romance,4.833082
+98,"Very Potter Sequel, A (2010)",Comedy|Musical,4.8241515
+98,12 Angry Men (1997),Crime|Drama,4.8241515
+99,Seve (2014),Documentary|Drama,5.479237
+99,The Big Bus (1976),Action|Comedy,5.479237
+99,Come and See (Idi i smotri) (1985),Drama|War,5.443409
+99,"Jetée, La (1962)",Romance|Sci-Fi,5.4172144
+99,Saving Face (2004),Comedy|Drama|Romance,5.3896475
+100,Saving Face (2004),Comedy|Drama|Romance,5.0429683
+100,Strictly Sexual (2008),Comedy|Drama|Romance,5.0175543
+100,Adam's Rib (1949),Comedy|Romance,4.9014177
+100,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.8787365
+100,De platte jungle (1978),Documentary,4.8656716
+101,On the Beach (1959),Drama,5.0880003
+101,Cosmos,(no genres listed),4.7307067
+101,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.643535
+101,"Jetée, La (1962)",Romance|Sci-Fi,4.624548
+101,Captain Fantastic (2016),Drama,4.6163373
+102,Seve (2014),Documentary|Drama,4.4474998
+102,The Big Bus (1976),Action|Comedy,4.4474998
+102,De platte jungle (1978),Documentary,4.4162865
+102,Blue Planet II (2017),Documentary,4.4162865
+102,Nasu: Summer in Andalusia (2003),Animation,4.4162865
+103,On the Beach (1959),Drama,5.2349405
+103,Cosmos,(no genres listed),5.0606136
+103,Seve (2014),Documentary|Drama,5.0012307
+103,The Big Bus (1976),Action|Comedy,5.0012307
+103,De platte jungle (1978),Documentary,4.9836826
+104,"Very Potter Sequel, A (2010)",Comedy|Musical,4.6335945
+104,12 Angry Men (1997),Crime|Drama,4.6335945
+104,Mr. Skeffington (1944),Drama|Romance,4.6335945
+104,Adam's Rib (1949),Comedy|Romance,4.6230164
+104,Saving Face (2004),Comedy|Drama|Romance,4.6000557
+105,On the Beach (1959),Drama,5.0076036
+105,Cosmos,(no genres listed),4.9187746
+105,Saving Face (2004),Comedy|Drama|Romance,4.913354
+105,De platte jungle (1978),Documentary,4.8933887
+105,Blue Planet II (2017),Documentary,4.8933887
+106,Saving Face (2004),Comedy|Drama|Romance,5.5357137
+106,Strictly Sexual (2008),Comedy|Drama|Romance,5.330431
+106,Submarine (2010),Comedy|Drama|Romance,5.2679715
+106,North & South (2004),Drama|Romance,5.239967
+106,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,5.1694655
+107,Saving Face (2004),Comedy|Drama|Romance,4.9115396
+107,Thief (1981),Crime|Drama|Thriller,4.865561
+107,On the Beach (1959),Drama,4.8232207
+107,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.793668
+107,Cosmos,(no genres listed),4.7650304
+108,On the Beach (1959),Drama,5.3953667
+108,Cosmos,(no genres listed),5.1463385
+108,Saving Face (2004),Comedy|Drama|Romance,5.122872
+108,De platte jungle (1978),Documentary,5.024145
+108,Blue Planet II (2017),Documentary,5.024145
+109,Seve (2014),Documentary|Drama,4.2012606
+109,The Big Bus (1976),Action|Comedy,4.2012606
+109,De platte jungle (1978),Documentary,4.182708
+109,Blue Planet II (2017),Documentary,4.182708
+109,Nasu: Summer in Andalusia (2003),Animation,4.182708
+110,On the Beach (1959),Drama,4.689717
+110,Captain Fantastic (2016),Drama,4.5556865
+110,The Artist (2011),Comedy|Drama|Romance,4.5354166
+110,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.519516
+110,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.502746
+111,Tom Segura: Mostly Stories (2016),Comedy,4.835955
+111,Tom Segura: Completely Normal (2014),Comedy,4.835955
+111,Jackass 3.5 (2011),Comedy|Documentary,4.6856055
+111,Jackass 2.5 (2007),Comedy|Documentary,4.592373
+111,"Family, The (2013)",Action|Comedy|Crime,4.5132203
+112,On the Beach (1959),Drama,4.7697477
+112,Inside Job (2010),Documentary,4.763963
+112,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,4.712111
+112,Saving Face (2004),Comedy|Drama|Romance,4.6080627
+112,Shooting Fish (1997),Comedy|Romance,4.5692496
+113,"Man and a Woman, A (Un homme et une femme) (1966)",Drama|Romance,4.854373
+113,What Ever Happened to Baby Jane? (1962),Drama|Horror|Thriller,4.808921
+113,The Artist (2011),Comedy|Drama|Romance,4.808655
+113,Guess Who's Coming to Dinner (1967),Drama,4.7162876
+113,52 Pick-Up (1986),Action|Mystery|Thriller,4.703211
+114,Deathgasm (2015),Comedy|Horror,4.7818418
+114,On the Beach (1959),Drama,4.1422443
+114,Saving Face (2004),Comedy|Drama|Romance,4.1203237
+114,Come and See (Idi i smotri) (1985),Drama|War,4.0600405
+114,"Jetée, La (1962)",Romance|Sci-Fi,3.9648945
+115,"Visitor, The (2007)",Drama|Romance,5.0537553
+115,Seve (2014),Documentary|Drama,5.052554
+115,The Big Bus (1976),Action|Comedy,5.052554
+115,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.90417
+115,On the Beach (1959),Drama,4.881537
+116,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.6466002
+116,Glory Road (2006),Drama,4.409654
+116,Saving Face (2004),Comedy|Drama|Romance,4.404929
+116,Thief (1981),Crime|Drama|Thriller,4.394402
+116,Strictly Sexual (2008),Comedy|Drama|Romance,4.3895226
+117,Saving Face (2004),Comedy|Drama|Romance,4.3508167
+117,On the Beach (1959),Drama,4.3377485
+117,Seve (2014),Documentary|Drama,4.310529
+117,The Big Bus (1976),Action|Comedy,4.310529
+117,Cosmos,(no genres listed),4.2043557
+118,On the Beach (1959),Drama,4.895497
+118,Cosmos,(no genres listed),4.533816
+118,Saving Face (2004),Comedy|Drama|Romance,4.5300574
+118,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.481441
+118,"General, The (1926)",Comedy|War,4.4520354
+119,Saving Face (2004),Comedy|Drama|Romance,5.2225604
+119,De platte jungle (1978),Documentary,5.1829276
+119,Blue Planet II (2017),Documentary,5.1829276
+119,Nasu: Summer in Andalusia (2003),Animation,5.1829276
+119,Bitter Lake (2015),Documentary,5.1829276
+120,On the Beach (1959),Drama,4.5384035
+120,Seve (2014),Documentary|Drama,4.4388323
+120,The Big Bus (1976),Action|Comedy,4.4388323
+120,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.307946
+120,Saving Face (2004),Comedy|Drama|Romance,4.2834606
+121,On the Beach (1959),Drama,4.2335997
+121,Cosmos,(no genres listed),4.1634727
+121,De platte jungle (1978),Documentary,4.1450872
+121,Blue Planet II (2017),Documentary,4.1450872
+121,Nasu: Summer in Andalusia (2003),Animation,4.1450872
+122,On the Beach (1959),Drama,5.8959236
+122,Saving Face (2004),Comedy|Drama|Romance,5.7332573
+122,Cosmos,(no genres listed),5.651533
+122,De platte jungle (1978),Documentary,5.5351644
+122,Blue Planet II (2017),Documentary,5.5351644
+123,On the Beach (1959),Drama,4.7968
+123,Saving Face (2004),Comedy|Drama|Romance,4.786845
+123,Cosmos,(no genres listed),4.665371
+123,De platte jungle (1978),Documentary,4.6123886
+123,Blue Planet II (2017),Documentary,4.6123886
+124,On the Beach (1959),Drama,5.2651086
+124,"Jetée, La (1962)",Romance|Sci-Fi,5.1604786
+124,Come and See (Idi i smotri) (1985),Drama|War,5.158564
+124,Seve (2014),Documentary|Drama,4.961602
+124,The Big Bus (1976),Action|Comedy,4.961602
+125,Idiots and Angels (2008),Animation|Drama|Fantasy,4.834384
+125,"Going Places (Valseuses, Les) (1974)",Comedy|Crime|Drama,4.834384
+125,Saving Face (2004),Comedy|Drama|Romance,4.8256216
+125,De platte jungle (1978),Documentary,4.823622
+125,Blue Planet II (2017),Documentary,4.823622
+126,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.4279013
+126,Thief (1981),Crime|Drama|Thriller,4.246907
+126,Glory Road (2006),Drama,4.197023
+126,"Best Exotic Marigold Hotel, The (2011)",Comedy|Drama,4.100823
+126,Shall We Dance (1937),Comedy|Musical|Romance,4.067689
+127,Michael Clayton (2007),Drama|Thriller,4.250406
+127,Breaking the Waves (1996),Drama|Mystery,4.158522
+127,"Wild Parrots of Telegraph Hill, The (2003)",Documentary,4.157696
+127,"Maltese Falcon, The (1941)",Film-Noir|Mystery,4.1555004
+127,Trekkies (1997),Documentary,4.026202
+128,On the Beach (1959),Drama,5.150797
+128,Saving Face (2004),Comedy|Drama|Romance,4.896485
+128,Cosmos,(no genres listed),4.8714123
+128,Seve (2014),Documentary|Drama,4.8693976
+128,The Big Bus (1976),Action|Comedy,4.8693976
+129,Saving Face (2004),Comedy|Drama|Romance,5.050339
+129,On the Beach (1959),Drama,4.990491
+129,Strictly Sexual (2008),Comedy|Drama|Romance,4.9283786
+129,Cosmos,(no genres listed),4.86196
+129,North & South (2004),Drama|Romance,4.8201814
+130,On the Beach (1959),Drama,4.5463386
+130,Cosmos,(no genres listed),4.4614687
+130,De platte jungle (1978),Documentary,4.4358077
+130,Blue Planet II (2017),Documentary,4.4358077
+130,Nasu: Summer in Andalusia (2003),Animation,4.4358077
+131,On the Beach (1959),Drama,4.1958027
+131,"Jetée, La (1962)",Romance|Sci-Fi,4.1823587
+131,Come and See (Idi i smotri) (1985),Drama|War,4.103177
+131,Seve (2014),Documentary|Drama,3.988276
+131,The Big Bus (1976),Action|Comedy,3.988276
+132,On the Beach (1959),Drama,3.8582685
+132,Cosmos,(no genres listed),3.8017828
+132,Saving Face (2004),Comedy|Drama|Romance,3.7942064
+132,De platte jungle (1978),Documentary,3.7896197
+132,Blue Planet II (2017),Documentary,3.7896197
+133,On the Beach (1959),Drama,3.801362
+133,Seve (2014),Documentary|Drama,3.7238858
+133,The Big Bus (1976),Action|Comedy,3.7238858
+133,Saving Face (2004),Comedy|Drama|Romance,3.721658
+133,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,3.6289363
+134,On the Beach (1959),Drama,4.8158007
+134,Cosmos,(no genres listed),4.7277665
+134,"Visitor, The (2007)",Drama|Romance,4.706509
+134,De platte jungle (1978),Documentary,4.70174
+134,Blue Planet II (2017),Documentary,4.70174
+135,On the Beach (1959),Drama,4.9682813
+135,Come and See (Idi i smotri) (1985),Drama|War,4.8847814
+135,Seve (2014),Documentary|Drama,4.844338
+135,The Big Bus (1976),Action|Comedy,4.844338
+135,"Jetée, La (1962)",Romance|Sci-Fi,4.8388896
+136,Murder in the First (1995),Drama|Thriller,4.465445
+136,Saving Face (2004),Comedy|Drama|Romance,4.36428
+136,De platte jungle (1978),Documentary,4.356633
+136,Blue Planet II (2017),Documentary,4.356633
+136,Nasu: Summer in Andalusia (2003),Animation,4.356633
+137,On the Beach (1959),Drama,4.894343
+137,"Jetée, La (1962)",Romance|Sci-Fi,4.66859
+137,Seve (2014),Documentary|Drama,4.5920043
+137,The Big Bus (1976),Action|Comedy,4.5920043
+137,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.5909977
+138,Drunken Master (Jui kuen) (1978),Action|Comedy,4.8102283
+138,Saving Face (2004),Comedy|Drama|Romance,4.7801456
+138,Hangar 18 (1980),Action|Sci-Fi|Thriller,4.680473
+138,"Philadelphia Story, The (1940)",Comedy|Drama|Romance,4.6632395
+138,Lady Jane (1986),Drama|Romance,4.6361866
+139,Saving Face (2004),Comedy|Drama|Romance,2.9333441
+139,On the Beach (1959),Drama,2.9218717
+139,"Visitor, The (2007)",Drama|Romance,2.879022
+139,"Hobbit: The Desolation of Smaug, The (2013)",Adventure|Fantasy|IMAX,2.7913878
+139,"Jetée, La (1962)",Romance|Sci-Fi,2.78227
+140,Thief (1981),Crime|Drama|Thriller,4.609144
+140,Saving Face (2004),Comedy|Drama|Romance,4.4612246
+140,On the Beach (1959),Drama,4.417727
+140,"Visitor, The (2007)",Drama|Romance,4.392461
+140,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.3855596
+141,Saving Face (2004),Comedy|Drama|Romance,4.480352
+141,On the Beach (1959),Drama,4.477429
+141,"Jetée, La (1962)",Romance|Sci-Fi,4.415627
+141,Come and See (Idi i smotri) (1985),Drama|War,4.395996
+141,Cosmos,(no genres listed),4.3164306
+142,On the Beach (1959),Drama,4.9040833
+142,Saving Face (2004),Comedy|Drama|Romance,4.754532
+142,Seve (2014),Documentary|Drama,4.7239976
+142,The Big Bus (1976),Action|Comedy,4.7239976
+142,Cosmos,(no genres listed),4.6860948
+143,Fired Up (2009),Comedy,4.62467
+143,Chasing Liberty (2004),Comedy|Romance,4.442078
+143,"Hello, Dolly! (1969)",Comedy|Musical|Romance,4.41237
+143,"Walk to Remember, A (2002)",Drama|Romance,4.3009543
+143,Uptown Girls (2003),Comedy,4.247406
+144,Saving Face (2004),Comedy|Drama|Romance,4.6475296
+144,On the Beach (1959),Drama,4.58909
+144,Cosmos,(no genres listed),4.511023
+144,De platte jungle (1978),Documentary,4.4898243
+144,Blue Planet II (2017),Documentary,4.4898243
+145,On the Beach (1959),Drama,4.3232827
+145,Seve (2014),Documentary|Drama,4.200186
+145,The Big Bus (1976),Action|Comedy,4.200186
+145,Saving Face (2004),Comedy|Drama|Romance,4.198725
+145,Cosmos,(no genres listed),4.165331
+146,3-Iron (Bin-jip) (2004),Drama|Romance,4.6566124
+146,Seve (2014),Documentary|Drama,4.2705817
+146,The Big Bus (1976),Action|Comedy,4.2705817
+146,Reign Over Me (2007),Drama,4.2620707
+146,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,4.2244444
+147,On the Beach (1959),Drama,5.116152
+147,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),Action|Animation|Mystery|Sci-Fi,4.8602314
+147,Mulholland Dr. (1999),Drama|Mystery|Romance,4.730652
+147,"Visitor, The (2007)",Drama|Romance,4.6979074
+147,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.6889544
+148,Saving Face (2004),Comedy|Drama|Romance,4.447995
+148,"Very Potter Sequel, A (2010)",Comedy|Musical,4.4033256
+148,12 Angry Men (1997),Crime|Drama,4.4033256
+148,Mr. Skeffington (1944),Drama|Romance,4.4033256
+148,Strictly Sexual (2008),Comedy|Drama|Romance,4.3451934
+149,Come and See (Idi i smotri) (1985),Drama|War,4.520442
+149,"Jetée, La (1962)",Romance|Sci-Fi,4.4905233
+149,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,4.3496504
+149,World of Tomorrow (2015),Animation|Comedy,4.293761
+149,"Andalusian Dog, An (Chien andalou, Un) (1929)",Fantasy,4.0058904
+150,On the Beach (1959),Drama,5.0095186
+150,Saving Face (2004),Comedy|Drama|Romance,4.8425784
+150,Cosmos,(no genres listed),4.6742268
+150,"Last Detail, The (1973)",Comedy|Drama,4.637088
+150,"Jetée, La (1962)",Romance|Sci-Fi,4.61553
+151,Seve (2014),Documentary|Drama,4.789869
+151,The Big Bus (1976),Action|Comedy,4.789869
+151,Strictly Sexual (2008),Comedy|Drama|Romance,4.7665396
+151,Saving Face (2004),Comedy|Drama|Romance,4.764988
+151,De platte jungle (1978),Documentary,4.6955504
+152,"Jetée, La (1962)",Romance|Sci-Fi,4.8412437
+152,Come and See (Idi i smotri) (1985),Drama|War,4.811188
+152,On the Beach (1959),Drama,4.7892776
+152,Seve (2014),Documentary|Drama,4.6778364
+152,The Big Bus (1976),Action|Comedy,4.6778364
+153,The Artist (2011),Comedy|Drama|Romance,4.3411984
+153,Captain Fantastic (2016),Drama,4.024885
+153,Call Me by Your Name (2017),Drama|Romance,4.0195136
+153,Wristcutters: A Love Story (2006),Drama|Fantasy|Romance,3.767193
+153,Blue Is the Warmest Color (La vie d'Adèle) (2013),Drama|Romance,3.6795437
+154,"Jetée, La (1962)",Romance|Sci-Fi,5.4924054
+154,Saving Face (2004),Comedy|Drama|Romance,5.456708
+154,Come and See (Idi i smotri) (1985),Drama|War,5.4517646
+154,Submarine (2010),Comedy|Drama|Romance,5.432213
+154,Strictly Sexual (2008),Comedy|Drama|Romance,5.4053493
+155,Saving Face (2004),Comedy|Drama|Romance,4.980668
+155,Strictly Sexual (2008),Comedy|Drama|Romance,4.8676004
+155,On the Beach (1959),Drama,4.838203
+155,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.7847457
+155,Cosmos,(no genres listed),4.744287
+156,My Man Godfrey (1957),Comedy,4.8167195
+156,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy,4.7614503
+156,On the Beach (1959),Drama,4.75501
+156,Autumn Sonata (Höstsonaten) (1978),Drama,4.6509237
+156,Woman in the Dunes (Suna no onna) (1964),Drama,4.6427584
+157,Seve (2014),Documentary|Drama,4.6173677
+157,The Big Bus (1976),Action|Comedy,4.6173677
+157,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.6160145
+157,De platte jungle (1978),Documentary,4.6104436
+157,Blue Planet II (2017),Documentary,4.6104436
+158,De platte jungle (1978),Documentary,4.6199794
+158,Blue Planet II (2017),Documentary,4.6199794
+158,Nasu: Summer in Andalusia (2003),Animation,4.6199794
+158,Bitter Lake (2015),Documentary,4.6199794
+158,Watermark (2014),Documentary,4.6199794
+159,Strictly Sexual (2008),Comedy|Drama|Romance,4.3794436
+159,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.3504353
+159,Hidden Figures (2016),Drama,4.1089835
+159,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.069692
+159,"Very Potter Sequel, A (2010)",Comedy|Musical,4.069467
+160,Beloved (1998),Drama,4.7572403
+160,Panic (2000),Drama,4.7141967
+160,Before Night Falls (2000),Drama,4.6402936
+160,Cecil B. DeMented (2000),Comedy,4.6232047
+160,"Magdalene Sisters, The (2002)",Drama,4.5261426
+161,On the Beach (1959),Drama,4.842982
+161,Saving Face (2004),Comedy|Drama|Romance,4.8346043
+161,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,4.7785444
+161,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.7690916
+161,Creature Comforts (1989),Animation|Comedy,4.624431
+162,3-Iron (Bin-jip) (2004),Drama|Romance,5.1441407
+162,Saving Face (2004),Comedy|Drama|Romance,5.080198
+162,De platte jungle (1978),Documentary,5.064687
+162,Blue Planet II (2017),Documentary,5.064687
+162,Nasu: Summer in Andalusia (2003),Animation,5.064687
+163,On the Beach (1959),Drama,4.009363
+163,Saving Face (2004),Comedy|Drama|Romance,4.001088
+163,"Jetée, La (1962)",Romance|Sci-Fi,3.9676683
+163,Come and See (Idi i smotri) (1985),Drama|War,3.9271195
+163,Cosmos,(no genres listed),3.9202962
+164,On the Beach (1959),Drama,5.2503953
+164,Saving Face (2004),Comedy|Drama|Romance,5.0286064
+164,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.9609427
+164,Cosmos,(no genres listed),4.9488864
+164,Seve (2014),Documentary|Drama,4.9111257
+165,Saving Face (2004),Comedy|Drama|Romance,4.648404
+165,On the Beach (1959),Drama,4.6197886
+165,North & South (2004),Drama|Romance,4.435999
+165,Cosmos,(no genres listed),4.385566
+165,Strictly Sexual (2008),Comedy|Drama|Romance,4.3470583
+166,On the Beach (1959),Drama,5.138075
+166,Saving Face (2004),Comedy|Drama|Romance,5.0772457
+166,Cosmos,(no genres listed),4.910979
+166,Belle époque (1992),Comedy|Romance,4.87989
+166,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.813125
+167,Saving Face (2004),Comedy|Drama|Romance,4.52387
+167,On the Beach (1959),Drama,4.52317
+167,"Jetée, La (1962)",Romance|Sci-Fi,4.402136
+167,Submarine (2010),Comedy|Drama|Romance,4.3880053
+167,Belle époque (1992),Comedy|Romance,4.3549166
+168,On the Beach (1959),Drama,5.2760496
+168,"Jetée, La (1962)",Romance|Sci-Fi,5.11105
+168,Seve (2014),Documentary|Drama,5.1039076
+168,The Big Bus (1976),Action|Comedy,5.1039076
+168,Captain Fantastic (2016),Drama,5.083897
+169,Saving Face (2004),Comedy|Drama|Romance,5.5731916
+169,Strictly Sexual (2008),Comedy|Drama|Romance,5.465672
+169,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,5.418651
+169,De platte jungle (1978),Documentary,5.403877
+169,Blue Planet II (2017),Documentary,5.403877
+170,Saving Face (2004),Comedy|Drama|Romance,4.0983515
+170,Thief (1981),Crime|Drama|Thriller,4.05484
+170,De platte jungle (1978),Documentary,4.0392075
+170,Blue Planet II (2017),Documentary,4.0392075
+170,Nasu: Summer in Andalusia (2003),Animation,4.0392075
+171,On the Beach (1959),Drama,5.8228455
+171,Saving Face (2004),Comedy|Drama|Romance,5.7277827
+171,Cosmos,(no genres listed),5.557955
+171,Seve (2014),Documentary|Drama,5.5397043
+171,The Big Bus (1976),Action|Comedy,5.5397043
+172,On the Beach (1959),Drama,4.9066753
+172,Seve (2014),Documentary|Drama,4.783074
+172,The Big Bus (1976),Action|Comedy,4.783074
+172,Saving Face (2004),Comedy|Drama|Romance,4.716141
+172,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.63007
+173,Guess Who's Coming to Dinner (1967),Drama,4.2613697
+173,"Very Potter Sequel, A (2010)",Comedy|Musical,4.2602353
+173,12 Angry Men (1997),Crime|Drama,4.2602353
+173,Mr. Skeffington (1944),Drama|Romance,4.2602353
+173,Adam's Rib (1949),Comedy|Romance,4.189336
+174,Saving Face (2004),Comedy|Drama|Romance,4.8316793
+174,On the Beach (1959),Drama,4.7256427
+174,North & South (2004),Drama|Romance,4.5863905
+174,Cosmos,(no genres listed),4.5811496
+174,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.5451336
+175,"Very Potter Sequel, A (2010)",Comedy|Musical,4.910895
+175,12 Angry Men (1997),Crime|Drama,4.910895
+175,Mr. Skeffington (1944),Drama|Romance,4.910895
+175,Raise Your Voice (2004),Romance,4.8806934
+175,Goal! The Dream Begins (Goal!) (2005),Drama,4.814788
+176,Saving Face (2004),Comedy|Drama|Romance,5.235773
+176,On the Beach (1959),Drama,5.148343
+176,Strictly Sexual (2008),Comedy|Drama|Romance,5.130087
+176,Cosmos,(no genres listed),5.044089
+176,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.0165935
+177,"Very Potter Sequel, A (2010)",Comedy|Musical,4.808079
+177,12 Angry Men (1997),Crime|Drama,4.808079
+177,Mr. Skeffington (1944),Drama|Romance,4.808079
+177,Adam's Rib (1949),Comedy|Romance,4.6158314
+177,Saving Face (2004),Comedy|Drama|Romance,4.440782
+178,On the Beach (1959),Drama,5.2718263
+178,Cosmos,(no genres listed),4.975924
+178,Seve (2014),Documentary|Drama,4.928811
+178,The Big Bus (1976),Action|Comedy,4.928811
+178,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.891977
+179,Saving Face (2004),Comedy|Drama|Romance,4.874206
+179,On the Beach (1959),Drama,4.836861
+179,Cosmos,(no genres listed),4.778415
+179,De platte jungle (1978),Documentary,4.770815
+179,Blue Planet II (2017),Documentary,4.770815
+180,On the Beach (1959),Drama,4.487837
+180,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.199758
+180,Seve (2014),Documentary|Drama,4.1676373
+180,The Big Bus (1976),Action|Comedy,4.1676373
+180,Saving Face (2004),Comedy|Drama|Romance,4.1379743
+181,Glory Road (2006),Drama,4.0329576
+181,Thief (1981),Crime|Drama|Thriller,3.9972956
+181,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,3.8901362
+181,Seve (2014),Documentary|Drama,3.8347452
+181,The Big Bus (1976),Action|Comedy,3.8347452
+182,Open Hearts (Elsker dig for evigt) (2002),Romance,4.821475
+182,On the Beach (1959),Drama,4.630227
+182,Captain Fantastic (2016),Drama,4.5984287
+182,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.554678
+182,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.547579
+183,On the Beach (1959),Drama,4.7742352
+183,Seve (2014),Documentary|Drama,4.6498685
+183,The Big Bus (1976),Action|Comedy,4.6498685
+183,Thief (1981),Crime|Drama|Thriller,4.576158
+183,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.516274
+184,"Jetée, La (1962)",Romance|Sci-Fi,5.2891293
+184,Come and See (Idi i smotri) (1985),Drama|War,5.250647
+184,On the Beach (1959),Drama,4.9756927
+184,World of Tomorrow (2015),Animation|Comedy,4.925736
+184,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,4.920802
+185,On the Beach (1959),Drama,4.7174544
+185,Come and See (Idi i smotri) (1985),Drama|War,4.598747
+185,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.566855
+185,"Jetée, La (1962)",Romance|Sci-Fi,4.5558124
+185,Saving Face (2004),Comedy|Drama|Romance,4.5371256
+186,Saving Face (2004),Comedy|Drama|Romance,5.3915014
+186,On the Beach (1959),Drama,5.376458
+186,Cosmos,(no genres listed),5.1723113
+186,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,5.103874
+186,De platte jungle (1978),Documentary,5.0777698
+187,Palindromes (2004),Adventure|Comedy|Drama,4.8270335
+187,Sonatine (Sonachine) (1993),Action|Comedy|Crime|Drama,4.8270335
+187,Shogun Assassin (1980),Action|Adventure,4.8270335
+187,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,4.793931
+187,Captain Fantastic (2016),Drama,4.779446
+188,Deathgasm (2015),Comedy|Horror,5.117981
+188,Seve (2014),Documentary|Drama,5.061751
+188,The Big Bus (1976),Action|Comedy,5.061751
+188,Lady Jane (1986),Drama|Romance,4.999515
+188,Crossing Delancey (1988),Comedy|Romance,4.999515
+189,On the Beach (1959),Drama,4.828387
+189,Saving Face (2004),Comedy|Drama|Romance,4.70242
+189,Cosmos,(no genres listed),4.590934
+189,Belle époque (1992),Comedy|Romance,4.5451727
+189,"Jetée, La (1962)",Romance|Sci-Fi,4.48916
+190,On the Beach (1959),Drama,4.858506
+190,Saving Face (2004),Comedy|Drama|Romance,4.781998
+190,Lady Jane (1986),Drama|Romance,4.6201015
+190,Crossing Delancey (1988),Comedy|Romance,4.6201015
+190,"Impostors, The (1998)",Comedy,4.6201015
+191,The Artist (2011),Comedy|Drama|Romance,5.068304
+191,Captain Fantastic (2016),Drama,5.0328627
+191,Burnt by the Sun (Utomlyonnye solntsem) (1994),Drama,4.955145
+191,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.911756
+191,Seve (2014),Documentary|Drama,4.89408
+192,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.228996
+192,Strictly Sexual (2008),Comedy|Drama|Romance,5.1534576
+192,Glory Road (2006),Drama,4.900432
+192,Thief (1981),Crime|Drama|Thriller,4.8860807
+192,Saving Face (2004),Comedy|Drama|Romance,4.8555274
+193,Captain Fantastic (2016),Drama,4.7957478
+193,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.5784717
+193,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.5246887
+193,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,4.4830413
+193,The Artist (2011),Comedy|Drama|Romance,4.456853
+194,On the Beach (1959),Drama,4.689384
+194,Saving Face (2004),Comedy|Drama|Romance,4.5906324
+194,Seve (2014),Documentary|Drama,4.525452
+194,The Big Bus (1976),Action|Comedy,4.525452
+194,Cosmos,(no genres listed),4.455169
+195,On the Beach (1959),Drama,4.5663824
+195,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.5311985
+195,Saving Face (2004),Comedy|Drama|Romance,4.358035
+195,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,4.3215733
+195,Cosmos,(no genres listed),4.314535
+196,Strictly Sexual (2008),Comedy|Drama|Romance,4.7557883
+196,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.7174845
+196,Saving Face (2004),Comedy|Drama|Romance,4.570392
+196,"Very Potter Sequel, A (2010)",Comedy|Musical,4.560795
+196,12 Angry Men (1997),Crime|Drama,4.560795
+197,On the Beach (1959),Drama,5.0621266
+197,"Visitor, The (2007)",Drama|Romance,4.9213724
+197,Saving Face (2004),Comedy|Drama|Romance,4.871282
+197,Belle époque (1992),Comedy|Romance,4.7865353
+197,Cosmos,(no genres listed),4.722902
+198,"Son of the Bride (Hijo de la novia, El) (2001)",Comedy|Drama,4.8304915
+198,Reign Over Me (2007),Drama,4.5490375
+198,Seve (2014),Documentary|Drama,4.5255504
+198,The Big Bus (1976),Action|Comedy,4.5255504
+198,Bill Hicks: Revelations (1993),Comedy,4.4744644
+199,"Jetée, La (1962)",Romance|Sci-Fi,4.6204867
+199,On the Beach (1959),Drama,4.60186
+199,Come and See (Idi i smotri) (1985),Drama|War,4.5629234
+199,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,4.3056345
+199,Lady Jane (1986),Drama|Romance,4.305099
+200,Saving Face (2004),Comedy|Drama|Romance,5.0066266
+200,De platte jungle (1978),Documentary,4.8975625
+200,Blue Planet II (2017),Documentary,4.8975625
+200,Nasu: Summer in Andalusia (2003),Animation,4.8975625
+200,Bitter Lake (2015),Documentary,4.8975625
+201,Seve (2014),Documentary|Drama,5.420972
+201,The Big Bus (1976),Action|Comedy,5.420972
+201,On the Beach (1959),Drama,5.300625
+201,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.2315707
+201,"Jetée, La (1962)",Romance|Sci-Fi,5.198738
+202,On the Beach (1959),Drama,5.1781397
+202,Saving Face (2004),Comedy|Drama|Romance,4.7827983
+202,Cosmos,(no genres listed),4.7686214
+202,Seve (2014),Documentary|Drama,4.7409496
+202,The Big Bus (1976),Action|Comedy,4.7409496
+203,On the Beach (1959),Drama,4.962521
+203,Cosmos,(no genres listed),4.780157
+203,De platte jungle (1978),Documentary,4.6966457
+203,Blue Planet II (2017),Documentary,4.6966457
+203,Nasu: Summer in Andalusia (2003),Animation,4.6966457
+204,Come and See (Idi i smotri) (1985),Drama|War,5.2747936
+204,"Jetée, La (1962)",Romance|Sci-Fi,5.2540994
+204,On the Beach (1959),Drama,5.064335
+204,Cosmos,(no genres listed),4.948333
+204,Seve (2014),Documentary|Drama,4.9174337
+205,On the Beach (1959),Drama,4.6762247
+205,Saving Face (2004),Comedy|Drama|Romance,4.6458297
+205,Strictly Sexual (2008),Comedy|Drama|Romance,4.562303
+205,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,4.5408783
+205,North & South (2004),Drama|Romance,4.5344834
+206,Seve (2014),Documentary|Drama,5.1404357
+206,The Big Bus (1976),Action|Comedy,5.1404357
+206,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.023399
+206,On the Beach (1959),Drama,5.0066085
+206,Lady Jane (1986),Drama|Romance,4.9439344
+207,On the Beach (1959),Drama,4.3893538
+207,Trust (1990),Comedy|Drama|Romance,4.21131
+207,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy,4.194348
+207,Bad Lieutenant (1992),Crime|Drama,4.1571903
+207,Phantom of the Paradise (1974),Comedy|Fantasy|Horror|Musical|Thriller,4.1462636
+208,Saving Face (2004),Comedy|Drama|Romance,4.390828
+208,"Visitor, The (2007)",Drama|Romance,4.361414
+208,On the Beach (1959),Drama,4.3565545
+208,Cosmos,(no genres listed),4.2771816
+208,De platte jungle (1978),Documentary,4.2538023
+209,On the Beach (1959),Drama,5.236695
+209,"Jetée, La (1962)",Romance|Sci-Fi,5.1736526
+209,Come and See (Idi i smotri) (1985),Drama|War,5.0740676
+209,Saving Face (2004),Comedy|Drama|Romance,4.9030886
+209,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.885732
+210,Strictly Sexual (2008),Comedy|Drama|Romance,5.4066863
+210,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.2527585
+210,Saving Face (2004),Comedy|Drama|Romance,5.221062
+210,"Visitor, The (2007)",Drama|Romance,4.9795027
+210,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.972029
+211,On the Beach (1959),Drama,4.8217325
+211,Saving Face (2004),Comedy|Drama|Romance,4.7704825
+211,Seve (2014),Documentary|Drama,4.695737
+211,The Big Bus (1976),Action|Comedy,4.695737
+211,Strictly Sexual (2008),Comedy|Drama|Romance,4.607032
+212,On the Beach (1959),Drama,4.410416
+212,Saving Face (2004),Comedy|Drama|Romance,4.3874693
+212,Belle époque (1992),Comedy|Romance,4.3420677
+212,Mamma Mia: Here We Go Again! (2018),Comedy|Romance,4.306734
+212,Logan Lucky (2017),Comedy,4.306734
+213,On the Beach (1959),Drama,5.0512037
+213,Saving Face (2004),Comedy|Drama|Romance,5.0162883
+213,Strictly Sexual (2008),Comedy|Drama|Romance,4.9416823
+213,Cosmos,(no genres listed),4.926742
+213,De platte jungle (1978),Documentary,4.879571
+214,3-Iron (Bin-jip) (2004),Drama|Romance,3.7143605
+214,Saving Face (2004),Comedy|Drama|Romance,3.7039096
+214,Seve (2014),Documentary|Drama,3.7010968
+214,The Big Bus (1976),Action|Comedy,3.7010968
+214,On the Beach (1959),Drama,3.681902
+215,The Artist (2011),Comedy|Drama|Romance,4.8113713
+215,Belle époque (1992),Comedy|Romance,4.691777
+215,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.659068
+215,Captain Fantastic (2016),Drama,4.6554956
+215,Saving Face (2004),Comedy|Drama|Romance,4.654875
+216,Lady Jane (1986),Drama|Romance,4.661417
+216,Crossing Delancey (1988),Comedy|Romance,4.661417
+216,"Impostors, The (1998)",Comedy,4.661417
+216,On the Beach (1959),Drama,4.6374907
+216,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama,4.5642986
+217,"Last Detail, The (1973)",Comedy|Drama,4.099661
+217,Saving Face (2004),Comedy|Drama|Romance,4.039414
+217,Titanic (1953),Action|Drama,4.0180583
+217,On the Beach (1959),Drama,3.939991
+217,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,3.810352
+218,On the Beach (1959),Drama,4.7461104
+218,Seve (2014),Documentary|Drama,4.567941
+218,The Big Bus (1976),Action|Comedy,4.567941
+218,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.428798
+218,Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),Action|Animation|Mystery|Sci-Fi,4.3937874
+219,On the Beach (1959),Drama,4.527845
+219,"Jetée, La (1962)",Romance|Sci-Fi,4.35238
+219,Yojimbo (1961),Action|Adventure,4.318996
+219,"Ten, The (2007)",Comedy,4.3127236
+219,Bill Hicks: Revelations (1993),Comedy,4.3059626
+220,On the Beach (1959),Drama,5.254185
+220,Saving Face (2004),Comedy|Drama|Romance,5.1113653
+220,Seve (2014),Documentary|Drama,4.9904604
+220,The Big Bus (1976),Action|Comedy,4.9904604
+220,"Visitor, The (2007)",Drama|Romance,4.941949
+221,On the Beach (1959),Drama,5.2096305
+221,Captain Fantastic (2016),Drama,4.949814
+221,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.9470906
+221,All Watched Over by Machines of Loving Grace (2011),Documentary,4.8727856
+221,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.8632426
+222,On the Beach (1959),Drama,4.2544203
+222,Seve (2014),Documentary|Drama,4.1162186
+222,The Big Bus (1976),Action|Comedy,4.1162186
+222,Come and See (Idi i smotri) (1985),Drama|War,4.0994697
+222,Saving Face (2004),Comedy|Drama|Romance,4.0974026
+223,On the Beach (1959),Drama,4.197099
+223,Strictly Sexual (2008),Comedy|Drama|Romance,4.1954527
+223,Saving Face (2004),Comedy|Drama|Romance,4.163223
+223,"Very Potter Sequel, A (2010)",Comedy|Musical,4.1469855
+223,12 Angry Men (1997),Crime|Drama,4.1469855
+224,Seve (2014),Documentary|Drama,5.1281734
+224,The Big Bus (1976),Action|Comedy,5.1281734
+224,3-Iron (Bin-jip) (2004),Drama|Romance,5.1189904
+224,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,5.081676
+224,On the Beach (1959),Drama,5.0767064
+225,"Jetée, La (1962)",Romance|Sci-Fi,4.8686523
+225,Come and See (Idi i smotri) (1985),Drama|War,4.865524
+225,Tales from the Darkside: The Movie (1990),Fantasy|Horror|Thriller,4.786921
+225,On the Beach (1959),Drama,4.7638264
+225,Seve (2014),Documentary|Drama,4.7050896
+226,On the Beach (1959),Drama,4.8452926
+226,"Jetée, La (1962)",Romance|Sci-Fi,4.7462134
+226,Come and See (Idi i smotri) (1985),Drama|War,4.723876
+226,Seve (2014),Documentary|Drama,4.687881
+226,The Big Bus (1976),Action|Comedy,4.687881
+227,On the Beach (1959),Drama,5.09221
+227,Saving Face (2004),Comedy|Drama|Romance,4.9805026
+227,Cosmos,(no genres listed),4.951365
+227,De platte jungle (1978),Documentary,4.8943033
+227,Blue Planet II (2017),Documentary,4.8943033
+228,On the Beach (1959),Drama,4.9256916
+228,Saving Face (2004),Comedy|Drama|Romance,4.749179
+228,Cosmos,(no genres listed),4.6936884
+228,North & South (2004),Drama|Romance,4.585279
+228,De platte jungle (1978),Documentary,4.579254
+229,On the Beach (1959),Drama,4.928488
+229,Saving Face (2004),Comedy|Drama|Romance,4.839326
+229,Cosmos,(no genres listed),4.7404237
+229,De platte jungle (1978),Documentary,4.653187
+229,Blue Planet II (2017),Documentary,4.653187
+230,Strictly Sexual (2008),Comedy|Drama|Romance,4.156827
+230,Mr. Woodcock (2007),Comedy,4.0417895
+230,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,3.8890471
+230,Saving Face (2004),Comedy|Drama|Romance,3.8311744
+230,Isle of Dogs (2018),Animation|Comedy,3.7892237
+231,On the Beach (1959),Drama,4.826717
+231,Cosmos,(no genres listed),4.361495
+231,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.302553
+231,Dragon Ball Z Gaiden: The Plot to Destroy the Saiyans (1993),Action|Adventure|Animation,4.290415
+231,Dragon ball Z 04: Lord Slug (1991),Animation|Children,4.290415
+232,On the Beach (1959),Drama,4.526282
+232,Cosmos,(no genres listed),4.480005
+232,De platte jungle (1978),Documentary,4.4781013
+232,Blue Planet II (2017),Documentary,4.4781013
+232,Nasu: Summer in Andalusia (2003),Animation,4.4781013
+233,On the Beach (1959),Drama,4.2350054
+233,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.112785
+233,Saving Face (2004),Comedy|Drama|Romance,4.054937
+233,Cosmos,(no genres listed),4.048735
+233,Belle époque (1992),Comedy|Romance,4.0032334
+234,Saving Face (2004),Comedy|Drama|Romance,4.981287
+234,3-Iron (Bin-jip) (2004),Drama|Romance,4.922504
+234,Seve (2014),Documentary|Drama,4.8606243
+234,The Big Bus (1976),Action|Comedy,4.8606243
+234,North & South (2004),Drama|Romance,4.821703
+235,On the Beach (1959),Drama,4.709786
+235,Seve (2014),Documentary|Drama,4.616599
+235,The Big Bus (1976),Action|Comedy,4.616599
+235,Saving Face (2004),Comedy|Drama|Romance,4.580455
+235,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.4997554
+236,On the Beach (1959),Drama,5.730887
+236,"Jetée, La (1962)",Romance|Sci-Fi,5.5167036
+236,Come and See (Idi i smotri) (1985),Drama|War,5.3829713
+236,Cosmos,(no genres listed),5.28109
+236,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,5.254256
+237,On the Beach (1959),Drama,4.2974086
+237,Saving Face (2004),Comedy|Drama|Romance,4.255649
+237,Cosmos,(no genres listed),4.170994
+237,"Jetée, La (1962)",Romance|Sci-Fi,4.132891
+237,De platte jungle (1978),Documentary,4.118165
+238,Sudden Impact (1983),Crime|Thriller,4.6499434
+238,Magnum Force (1973),Action|Crime|Drama|Thriller,4.535672
+238,"Visitor, The (2007)",Drama|Romance,4.531678
+238,De platte jungle (1978),Documentary,4.4005837
+238,Blue Planet II (2017),Documentary,4.4005837
+239,On the Beach (1959),Drama,5.0537386
+239,Saving Face (2004),Comedy|Drama|Romance,5.0107446
+239,Cosmos,(no genres listed),4.930219
+239,De platte jungle (1978),Documentary,4.8836474
+239,Blue Planet II (2017),Documentary,4.8836474
+240,Saving Face (2004),Comedy|Drama|Romance,5.292853
+240,Strictly Sexual (2008),Comedy|Drama|Romance,5.202043
+240,De platte jungle (1978),Documentary,5.075437
+240,Blue Planet II (2017),Documentary,5.075437
+240,Nasu: Summer in Andalusia (2003),Animation,5.075437
+241,On the Beach (1959),Drama,4.6384416
+241,Captain Fantastic (2016),Drama,4.567048
+241,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.528662
+241,Saving Face (2004),Comedy|Drama|Romance,4.4715357
+241,Cosmos,(no genres listed),4.4581914
+242,On the Beach (1959),Drama,4.8032355
+242,"Jetée, La (1962)",Romance|Sci-Fi,4.751012
+242,Come and See (Idi i smotri) (1985),Drama|War,4.735231
+242,Cosmos,(no genres listed),4.6691804
+242,Saving Face (2004),Comedy|Drama|Romance,4.6670866
+243,Strictly Sexual (2008),Comedy|Drama|Romance,5.5440345
+243,Come and See (Idi i smotri) (1985),Drama|War,5.460844
+243,De platte jungle (1978),Documentary,5.422908
+243,Blue Planet II (2017),Documentary,5.422908
+243,Nasu: Summer in Andalusia (2003),Animation,5.422908
+244,On the Beach (1959),Drama,4.9756703
+244,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.7679625
+244,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.714818
+244,Saving Face (2004),Comedy|Drama|Romance,4.713762
+244,"Jetée, La (1962)",Romance|Sci-Fi,4.6662216
+245,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,3.3797529
+245,Saving Face (2004),Comedy|Drama|Romance,3.3760564
+245,On the Beach (1959),Drama,3.3609192
+245,Hoop Dreams (1994),Documentary,3.3161533
+245,Deathgasm (2015),Comedy|Horror,3.2820306
+246,Saving Face (2004),Comedy|Drama|Romance,5.494611
+246,On the Beach (1959),Drama,5.2521286
+246,De platte jungle (1978),Documentary,5.2327046
+246,Blue Planet II (2017),Documentary,5.2327046
+246,Nasu: Summer in Andalusia (2003),Animation,5.2327046
+247,On the Beach (1959),Drama,4.5759683
+247,Saving Face (2004),Comedy|Drama|Romance,4.4645476
+247,"Jetée, La (1962)",Romance|Sci-Fi,4.3881974
+247,Come and See (Idi i smotri) (1985),Drama|War,4.342882
+247,Belle époque (1992),Comedy|Romance,4.337029
+248,"Doctor Who: The Doctor, the Widow and the Wardrobe (2011)",Adventure|Drama,4.5887775
+248,Saving Face (2004),Comedy|Drama|Romance,4.518535
+248,Deathgasm (2015),Comedy|Horror,4.4357457
+248,Doctor Who: Voyage Of The Damned (2007),Action|Sci-Fi,4.391495
+248,Strictly Sexual (2008),Comedy|Drama|Romance,4.3672786
+249,Saving Face (2004),Comedy|Drama|Romance,5.092995
+249,On the Beach (1959),Drama,5.058937
+249,Cosmos,(no genres listed),4.965484
+249,De platte jungle (1978),Documentary,4.9375424
+249,Blue Planet II (2017),Documentary,4.9375424
+250,Saving Face (2004),Comedy|Drama|Romance,5.396114
+250,On the Beach (1959),Drama,5.231473
+250,"Very Potter Sequel, A (2010)",Comedy|Musical,5.2231245
+250,12 Angry Men (1997),Crime|Drama,5.2231245
+250,Mr. Skeffington (1944),Drama|Romance,5.2231245
+251,On the Beach (1959),Drama,5.6030746
+251,Seve (2014),Documentary|Drama,5.330901
+251,The Big Bus (1976),Action|Comedy,5.330901
+251,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,5.2950935
+251,Cosmos,(no genres listed),5.2861686
+252,On the Beach (1959),Drama,5.159375
+252,Saving Face (2004),Comedy|Drama|Romance,5.139586
+252,Seve (2014),Documentary|Drama,5.017394
+252,The Big Bus (1976),Action|Comedy,5.017394
+252,Belle époque (1992),Comedy|Romance,4.9878526
+253,On the Beach (1959),Drama,5.236631
+253,Captain Fantastic (2016),Drama,5.2132306
+253,"Best of Youth, The (La meglio gioventù) (2003)",Drama,5.065729
+253,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,5.0497885
+253,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.94777
+254,On the Beach (1959),Drama,5.017195
+254,Saving Face (2004),Comedy|Drama|Romance,4.8307676
+254,"Jetée, La (1962)",Romance|Sci-Fi,4.8047647
+254,Cosmos,(no genres listed),4.7968388
+254,Come and See (Idi i smotri) (1985),Drama|War,4.79512
+255,Cheech and Chong's Up in Smoke (1978),Comedy,4.346212
+255,Bachelor Party (1984),Comedy,3.942215
+255,3 Ninjas: High Noon On Mega Mountain (1998),Action|Children|Comedy,3.880628
+255,Superstar (1999),Comedy,3.6300838
+255,Caddyshack (1980),Comedy,3.6259587
+256,Strictly Sexual (2008),Comedy|Drama|Romance,5.0408173
+256,Saving Face (2004),Comedy|Drama|Romance,5.0235453
+256,De platte jungle (1978),Documentary,5.0090766
+256,Blue Planet II (2017),Documentary,5.0090766
+256,Nasu: Summer in Andalusia (2003),Animation,5.0090766
+257,Strictly Sexual (2008),Comedy|Drama|Romance,4.127785
+257,"Very Potter Sequel, A (2010)",Comedy|Musical,4.1191635
+257,12 Angry Men (1997),Crime|Drama,4.1191635
+257,Mr. Skeffington (1944),Drama|Romance,4.1191635
+257,Saving Face (2004),Comedy|Drama|Romance,4.0877404
+258,Deathgasm (2015),Comedy|Horror,5.3583198
+258,Captain Fantastic (2016),Drama,5.3388243
+258,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,5.0947113
+258,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,5.0928607
+258,On the Beach (1959),Drama,5.032994
+259,Dancer in the Dark (2000),Drama|Musical,4.386269
+259,Calendar Girls (2003),Comedy,4.383658
+259,Stranger Than Paradise (1984),Comedy|Drama,4.3742304
+259,"Thin Red Line, The (1998)",Action|Drama|War,4.297495
+259,Hamlet (1996),Crime|Drama|Romance,4.2305
+260,True Stories (1986),Comedy|Musical,4.8230352
+260,"Jetée, La (1962)",Romance|Sci-Fi,4.77037
+260,On the Beach (1959),Drama,4.750909
+260,Come and See (Idi i smotri) (1985),Drama|War,4.638938
+260,"Girl on the Bridge, The (Fille sur le pont, La) (1999)",Drama|Romance,4.511284
+261,On the Beach (1959),Drama,4.8354206
+261,Reign Over Me (2007),Drama,4.8137856
+261,Seve (2014),Documentary|Drama,4.7882776
+261,The Big Bus (1976),Action|Comedy,4.7882776
+261,Captain Fantastic (2016),Drama,4.744606
+262,Burnt by the Sun (Utomlyonnye solntsem) (1994),Drama,4.4130354
+262,Persuasion (1995),Drama|Romance,4.2035685
+262,"Madness of King George, The (1994)",Comedy|Drama,3.9662893
+262,Bad Boy Bubby (1993),Drama,3.8924584
+262,Saving Face (2004),Comedy|Drama|Romance,3.8919032
+263,On the Beach (1959),Drama,4.8088484
+263,Saving Face (2004),Comedy|Drama|Romance,4.793632
+263,Lady Jane (1986),Drama|Romance,4.685798
+263,Crossing Delancey (1988),Comedy|Romance,4.685798
+263,"Impostors, The (1998)",Comedy,4.685798
+264,Saving Face (2004),Comedy|Drama|Romance,4.541217
+264,Deathgasm (2015),Comedy|Horror,4.494809
+264,On the Beach (1959),Drama,4.431094
+264,Adam's Rib (1949),Comedy|Romance,4.41136
+264,Lady Jane (1986),Drama|Romance,4.384214
+265,Saving Face (2004),Comedy|Drama|Romance,4.5593987
+265,On the Beach (1959),Drama,4.5120983
+265,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.416714
+265,"Visitor, The (2007)",Drama|Romance,4.3639383
+265,Strictly Sexual (2008),Comedy|Drama|Romance,4.326814
+266,On the Beach (1959),Drama,4.9882836
+266,Yojimbo (1961),Action|Adventure,4.95183
+266,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.8375473
+266,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.6831827
+266,Seve (2014),Documentary|Drama,4.680889
+267,On the Beach (1959),Drama,5.302637
+267,Seve (2014),Documentary|Drama,5.1497145
+267,The Big Bus (1976),Action|Comedy,5.1497145
+267,Saving Face (2004),Comedy|Drama|Romance,5.143398
+267,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.9998984
+268,"Long Goodbye, The (1973)",Crime|Film-Noir,4.8245764
+268,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,4.6608415
+268,"Jetée, La (1962)",Romance|Sci-Fi,4.6102915
+268,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.600182
+268,On the Beach (1959),Drama,4.5548697
+269,Seve (2014),Documentary|Drama,5.2094665
+269,The Big Bus (1976),Action|Comedy,5.2094665
+269,On the Beach (1959),Drama,5.0710816
+269,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.0633845
+269,"Jetée, La (1962)",Romance|Sci-Fi,4.9555225
+270,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,4.433032
+270,Seve (2014),Documentary|Drama,4.3878913
+270,The Big Bus (1976),Action|Comedy,4.3878913
+270,Guess Who's Coming to Dinner (1967),Drama,4.36822
+270,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.3019705
+271,On the Beach (1959),Drama,4.2393847
+271,Cosmos,(no genres listed),4.053393
+271,Saving Face (2004),Comedy|Drama|Romance,4.0508356
+271,Ex Drummer (2007),Comedy|Crime|Drama|Horror,3.9647396
+271,De platte jungle (1978),Documentary,3.96337
+272,On the Beach (1959),Drama,4.3737774
+272,Saving Face (2004),Comedy|Drama|Romance,4.278437
+272,Strictly Sexual (2008),Comedy|Drama|Romance,4.2171926
+272,Cosmos,(no genres listed),4.2028084
+272,"Visitor, The (2007)",Drama|Romance,4.176696
+273,On the Beach (1959),Drama,5.4610248
+273,Saving Face (2004),Comedy|Drama|Romance,5.1884055
+273,Seve (2014),Documentary|Drama,5.1231246
+273,The Big Bus (1976),Action|Comedy,5.1231246
+273,Cosmos,(no genres listed),5.114871
+274,Saving Face (2004),Comedy|Drama|Romance,4.5137815
+274,On the Beach (1959),Drama,4.4653573
+274,De platte jungle (1978),Documentary,4.4353967
+274,Blue Planet II (2017),Documentary,4.4353967
+274,Nasu: Summer in Andalusia (2003),Animation,4.4353967
+275,On the Beach (1959),Drama,5.363663
+275,"Jetée, La (1962)",Romance|Sci-Fi,5.0856786
+275,Come and See (Idi i smotri) (1985),Drama|War,4.984603
+275,Cosmos,(no genres listed),4.9326587
+275,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.899411
+276,Saving Face (2004),Comedy|Drama|Romance,5.837582
+276,On the Beach (1959),Drama,5.734757
+276,Seve (2014),Documentary|Drama,5.603056
+276,The Big Bus (1976),Action|Comedy,5.603056
+276,Cosmos,(no genres listed),5.563224
+277,Saving Face (2004),Comedy|Drama|Romance,4.9576626
+277,On the Beach (1959),Drama,4.773526
+277,North & South (2004),Drama|Romance,4.6920285
+277,Cosmos,(no genres listed),4.6500635
+277,Persuasion (1995),Drama|Romance,4.6039844
+278,De platte jungle (1978),Documentary,5.0601845
+278,Blue Planet II (2017),Documentary,5.0601845
+278,Nasu: Summer in Andalusia (2003),Animation,5.0601845
+278,Bitter Lake (2015),Documentary,5.0601845
+278,Watermark (2014),Documentary,5.0601845
+279,On the Beach (1959),Drama,4.7374816
+279,"Jetée, La (1962)",Romance|Sci-Fi,4.5347857
+279,Come and See (Idi i smotri) (1985),Drama|War,4.4447646
+279,Saving Face (2004),Comedy|Drama|Romance,4.3876615
+279,Cosmos,(no genres listed),4.363621
+280,Reign Over Me (2007),Drama,4.9119287
+280,On the Beach (1959),Drama,4.8814826
+280,Saving Face (2004),Comedy|Drama|Romance,4.874842
+280,Adam's Rib (1949),Comedy|Romance,4.839933
+280,"Very Potter Sequel, A (2010)",Comedy|Musical,4.8172903
+281,"Jetée, La (1962)",Romance|Sci-Fi,4.7441907
+281,Come and See (Idi i smotri) (1985),Drama|War,4.730821
+281,Saving Face (2004),Comedy|Drama|Romance,4.5614367
+281,On the Beach (1959),Drama,4.470893
+281,North & South (2004),Drama|Romance,4.44966
+282,On the Beach (1959),Drama,5.060604
+282,Saving Face (2004),Comedy|Drama|Romance,5.018061
+282,Cosmos,(no genres listed),4.876241
+282,Seve (2014),Documentary|Drama,4.823764
+282,The Big Bus (1976),Action|Comedy,4.823764
+283,On the Beach (1959),Drama,4.166867
+283,Seve (2014),Documentary|Drama,4.113882
+283,The Big Bus (1976),Action|Comedy,4.113882
+283,"Visitor, The (2007)",Drama|Romance,4.070643
+283,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,4.0701466
+284,Saving Face (2004),Comedy|Drama|Romance,5.1668205
+284,On the Beach (1959),Drama,5.09401
+284,Cosmos,(no genres listed),4.9911757
+284,De platte jungle (1978),Documentary,4.957637
+284,Blue Planet II (2017),Documentary,4.957637
+285,On the Beach (1959),Drama,4.786943
+285,"Jetée, La (1962)",Romance|Sci-Fi,4.6883283
+285,Come and See (Idi i smotri) (1985),Drama|War,4.6836934
+285,Seve (2014),Documentary|Drama,4.5714006
+285,The Big Bus (1976),Action|Comedy,4.5714006
+286,On the Beach (1959),Drama,5.0120783
+286,Saving Face (2004),Comedy|Drama|Romance,4.8791327
+286,"I, the Jury (1982)",Crime|Drama|Thriller,4.825121
+286,Cosmos,(no genres listed),4.790918
+286,"Jetée, La (1962)",Romance|Sci-Fi,4.7527432
+287,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,4.6156607
+287,Captain Fantastic (2016),Drama,4.455511
+287,The Artist (2011),Comedy|Drama|Romance,4.452845
+287,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.3839955
+287,Hedwig and the Angry Inch (2000),Comedy|Drama|Musical,4.2818155
+288,On the Beach (1959),Drama,4.391023
+288,Saving Face (2004),Comedy|Drama|Romance,4.328174
+288,Lady Jane (1986),Drama|Romance,4.2912855
+288,Crossing Delancey (1988),Comedy|Romance,4.2912855
+288,"Impostors, The (1998)",Comedy,4.2912855
+289,On the Beach (1959),Drama,4.8343673
+289,Seve (2014),Documentary|Drama,4.5239854
+289,The Big Bus (1976),Action|Comedy,4.5239854
+289,Cosmos,(no genres listed),4.5208063
+289,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.520078
+290,On the Beach (1959),Drama,5.1780443
+290,Seve (2014),Documentary|Drama,4.9883885
+290,The Big Bus (1976),Action|Comedy,4.9883885
+290,"Jetée, La (1962)",Romance|Sci-Fi,4.9612975
+290,Lady Jane (1986),Drama|Romance,4.9589815
+291,Submarine (2010),Comedy|Drama|Romance,5.388672
+291,Strictly Sexual (2008),Comedy|Drama|Romance,5.3139024
+291,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,5.0622587
+291,Saving Face (2004),Comedy|Drama|Romance,4.9921627
+291,Doctor Who: The Time of the Doctor (2013),Adventure|Drama,4.91093
+292,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.8077583
+292,Strictly Sexual (2008),Comedy|Drama|Romance,4.555235
+292,Saving Face (2004),Comedy|Drama|Romance,4.392127
+292,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.242577
+292,"Very Potter Sequel, A (2010)",Comedy|Musical,4.2282996
+293,On the Beach (1959),Drama,3.9070933
+293,Seve (2014),Documentary|Drama,3.669765
+293,The Big Bus (1976),Action|Comedy,3.669765
+293,Saving Face (2004),Comedy|Drama|Romance,3.6556473
+293,Cosmos,(no genres listed),3.6343682
+294,Where the Buffalo Roam (1980),Comedy,4.4151154
+294,Bachelor Party (1984),Comedy,4.096362
+294,On the Beach (1959),Drama,4.052329
+294,Cheech and Chong's Up in Smoke (1978),Comedy,3.9858618
+294,"Visitor, The (2007)",Drama|Romance,3.9799955
+295,"Jetée, La (1962)",Romance|Sci-Fi,5.1008034
+295,Come and See (Idi i smotri) (1985),Drama|War,5.0923595
+295,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,4.898936
+295,Captain Fantastic (2016),Drama,4.8462024
+295,Bad Boy Bubby (1993),Drama,4.8018365
+296,Come and See (Idi i smotri) (1985),Drama|War,5.364297
+296,"Jetée, La (1962)",Romance|Sci-Fi,5.309827
+296,Captain Fantastic (2016),Drama,5.0798073
+296,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,5.0204067
+296,On the Beach (1959),Drama,5.0070333
+297,On the Beach (1959),Drama,4.114003
+297,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,3.875859
+297,Crazy Heart (2009),Drama|Romance,3.8580332
+297,"Best of Youth, The (La meglio gioventù) (2003)",Drama,3.852247
+297,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,3.8514998
+298,Beer League (2006),Comedy,3.7890875
+298,High and Low (Tengoku to jigoku) (1963),Crime|Drama|Film-Noir|Thriller,3.7890875
+298,On the Beach (1959),Drama,3.7701046
+298,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,3.6977751
+298,Underground (1995),Comedy|Drama|War,3.6517646
+299,On the Beach (1959),Drama,4.7801585
+299,Saving Face (2004),Comedy|Drama|Romance,4.653457
+299,Come and See (Idi i smotri) (1985),Drama|War,4.571147
+299,Seve (2014),Documentary|Drama,4.562138
+299,The Big Bus (1976),Action|Comedy,4.562138
+300,On the Beach (1959),Drama,5.196458
+300,Captain Fantastic (2016),Drama,4.9553957
+300,Belle époque (1992),Comedy|Romance,4.851884
+300,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.816178
+300,Cosmos,(no genres listed),4.805001
+301,Reign Over Me (2007),Drama,4.457532
+301,Captain Fantastic (2016),Drama,4.3787374
+301,"Jetée, La (1962)",Romance|Sci-Fi,4.3349
+301,Seve (2014),Documentary|Drama,4.3056884
+301,The Big Bus (1976),Action|Comedy,4.3056884
+302,On the Beach (1959),Drama,5.2360573
+302,Seve (2014),Documentary|Drama,5.0511684
+302,The Big Bus (1976),Action|Comedy,5.0511684
+302,Saving Face (2004),Comedy|Drama|Romance,4.9708433
+302,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.937015
+303,On the Beach (1959),Drama,4.975822
+303,"Visitor, The (2007)",Drama|Romance,4.9525075
+303,Saving Face (2004),Comedy|Drama|Romance,4.925245
+303,Cosmos,(no genres listed),4.621142
+303,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.558226
+304,"Visitor, The (2007)",Drama|Romance,5.0254483
+304,Saving Face (2004),Comedy|Drama|Romance,4.965975
+304,On the Beach (1959),Drama,4.962688
+304,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.9336505
+304,Thief (1981),Crime|Drama|Thriller,4.8505282
+305,On the Beach (1959),Drama,5.165288
+305,Deathgasm (2015),Comedy|Horror,5.1404514
+305,Cosmos,(no genres listed),4.945749
+305,Come and See (Idi i smotri) (1985),Drama|War,4.890363
+305,Saving Face (2004),Comedy|Drama|Romance,4.886813
+306,Saving Face (2004),Comedy|Drama|Romance,4.237173
+306,The Book of Life (2014),Adventure|Animation|Romance,4.1581554
+306,North & South (2004),Drama|Romance,4.115872
+306,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,4.039443
+306,De platte jungle (1978),Documentary,4.039045
+307,Reign Over Me (2007),Drama,4.3085866
+307,Fubar (2002),Comedy,4.0050282
+307,On the Beach (1959),Drama,4.002859
+307,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,3.9972696
+307,Captain Fantastic (2016),Drama,3.9552715
+308,Submarine (2010),Comedy|Drama|Romance,4.6514616
+308,Doctor Who: The Time of the Doctor (2013),Adventure|Drama,4.6214204
+308,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,4.3002563
+308,"Perks of Being a Wallflower, The (2012)",Drama|Romance,3.79942
+308,Strictly Sexual (2008),Comedy|Drama|Romance,3.7114327
+309,On the Beach (1959),Drama,4.6396904
+309,"Jetée, La (1962)",Romance|Sci-Fi,4.6341195
+309,Come and See (Idi i smotri) (1985),Drama|War,4.5571203
+309,Seve (2014),Documentary|Drama,4.4771004
+309,The Big Bus (1976),Action|Comedy,4.4771004
+310,On the Beach (1959),Drama,4.9590034
+310,"Jetée, La (1962)",Romance|Sci-Fi,4.820008
+310,Come and See (Idi i smotri) (1985),Drama|War,4.7726784
+310,"Visitor, The (2007)",Drama|Romance,4.7363477
+310,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,4.7089286
+311,"Hours, The (2002)",Drama|Romance,3.56418
+311,"Unforgiven, The (1960)",Drama|Western,3.3870368
+311,"Cry, the Beloved Country (1995)",Drama,3.3136966
+311,On the Beach (1959),Drama,3.1256418
+311,Opera (1987),Crime|Horror|Mystery,3.0415614
+312,On the Beach (1959),Drama,5.0808015
+312,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.715262
+312,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.704035
+312,Cosmos,(no genres listed),4.7003317
+312,Belle époque (1992),Comedy|Romance,4.696555
+313,Reform School Girls (1986),Action|Drama,4.8524814
+313,The Golden Voyage of Sinbad (1973),Action|Adventure|Fantasy,4.7726154
+313,On the Beach (1959),Drama,4.642256
+313,"7th Voyage of Sinbad, The (1958)",Action|Adventure|Fantasy,4.5971394
+313,Near Dark (1987),Horror|Western,4.5567346
+314,Seve (2014),Documentary|Drama,4.0458236
+314,The Big Bus (1976),Action|Comedy,4.0458236
+314,On the Beach (1959),Drama,4.023698
+314,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,3.9477177
+314,Saving Face (2004),Comedy|Drama|Romance,3.94621
+315,Seve (2014),Documentary|Drama,4.148756
+315,The Big Bus (1976),Action|Comedy,4.148756
+315,Come and See (Idi i smotri) (1985),Drama|War,4.0800695
+315,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.041051
+315,"Jetée, La (1962)",Romance|Sci-Fi,4.0092235
+316,On the Beach (1959),Drama,4.1802263
+316,"Jetée, La (1962)",Romance|Sci-Fi,4.1653547
+316,Come and See (Idi i smotri) (1985),Drama|War,4.132035
+316,Saving Face (2004),Comedy|Drama|Romance,4.032985
+316,Cosmos,(no genres listed),4.0296187
+317,On the Beach (1959),Drama,4.583735
+317,Crazy Heart (2009),Drama|Romance,4.5337777
+317,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.3483386
+317,Seve (2014),Documentary|Drama,4.343008
+317,The Big Bus (1976),Action|Comedy,4.343008
+318,De platte jungle (1978),Documentary,4.80703
+318,Blue Planet II (2017),Documentary,4.80703
+318,Nasu: Summer in Andalusia (2003),Animation,4.80703
+318,Bitter Lake (2015),Documentary,4.80703
+318,Watermark (2014),Documentary,4.80703
+319,On the Beach (1959),Drama,5.3183665
+319,Saving Face (2004),Comedy|Drama|Romance,5.287415
+319,Belle époque (1992),Comedy|Romance,5.0406594
+319,Cosmos,(no genres listed),5.021047
+319,North & South (2004),Drama|Romance,4.9305115
+320,Reign Over Me (2007),Drama,4.565803
+320,The Artist (2011),Comedy|Drama|Romance,4.49533
+320,3-Iron (Bin-jip) (2004),Drama|Romance,4.449522
+320,Belle époque (1992),Comedy|Romance,4.4085636
+320,Saving Face (2004),Comedy|Drama|Romance,4.406818
+321,Saving Face (2004),Comedy|Drama|Romance,4.446542
+321,Strictly Sexual (2008),Comedy|Drama|Romance,4.418542
+321,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.3321023
+321,De platte jungle (1978),Documentary,4.3320203
+321,Blue Planet II (2017),Documentary,4.3320203
+322,On the Beach (1959),Drama,4.288904
+322,Saving Face (2004),Comedy|Drama|Romance,4.204168
+322,Seve (2014),Documentary|Drama,4.144875
+322,The Big Bus (1976),Action|Comedy,4.144875
+322,Cosmos,(no genres listed),4.07467
+323,On the Beach (1959),Drama,4.1710243
+323,Seve (2014),Documentary|Drama,4.0750117
+323,The Big Bus (1976),Action|Comedy,4.0750117
+323,Saving Face (2004),Comedy|Drama|Romance,4.0513496
+323,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,3.9816163
+324,Lady Jane (1986),Drama|Romance,4.577172
+324,Crossing Delancey (1988),Comedy|Romance,4.577172
+324,"Impostors, The (1998)",Comedy,4.577172
+324,On the Beach (1959),Drama,4.4360275
+324,Safety Last! (1923),Action|Comedy|Romance,4.368088
+325,On the Beach (1959),Drama,4.885447
+325,"Jetée, La (1962)",Romance|Sci-Fi,4.7940083
+325,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.6957645
+325,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy,4.6815944
+325,Come and See (Idi i smotri) (1985),Drama|War,4.677897
+326,Max Manus (2008),Action|Drama|War,4.8356175
+326,"Class, The (Klass) (2007)",Drama,4.8356175
+326,On the Beach (1959),Drama,4.70158
+326,Captain Fantastic (2016),Drama,4.6490417
+326,Cosmos,(no genres listed),4.626203
+327,"Visitor, The (2007)",Drama|Romance,5.085257
+327,Come and See (Idi i smotri) (1985),Drama|War,5.0336847
+327,De platte jungle (1978),Documentary,5.025535
+327,Blue Planet II (2017),Documentary,5.025535
+327,Nasu: Summer in Andalusia (2003),Animation,5.025535
+328,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.1964827
+328,On the Beach (1959),Drama,4.1710677
+328,Seve (2014),Documentary|Drama,4.0550914
+328,The Big Bus (1976),Action|Comedy,4.0550914
+328,Yojimbo (1961),Action|Adventure,4.054387
+329,Villain (1971),Crime|Drama|Thriller,4.8627577
+329,Phantom of the Paradise (1974),Comedy|Fantasy|Horror|Musical|Thriller,4.733162
+329,Being There (1979),Comedy|Drama,4.115183
+329,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama,4.102
+329,Too Late for Tears (1949),Crime|Drama|Film-Noir|Mystery|Thriller,3.8902063
+330,On the Beach (1959),Drama,4.6930504
+330,Saving Face (2004),Comedy|Drama|Romance,4.606687
+330,Belle époque (1992),Comedy|Romance,4.53883
+330,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.502573
+330,Seve (2014),Documentary|Drama,4.4778976
+331,On the Beach (1959),Drama,4.9081016
+331,Captain Fantastic (2016),Drama,4.8198133
+331,"Jetée, La (1962)",Romance|Sci-Fi,4.76241
+331,Come and See (Idi i smotri) (1985),Drama|War,4.703025
+331,Belle époque (1992),Comedy|Romance,4.6455255
+332,On the Beach (1959),Drama,4.6909323
+332,Saving Face (2004),Comedy|Drama|Romance,4.492523
+332,"Jetée, La (1962)",Romance|Sci-Fi,4.4194527
+332,Seve (2014),Documentary|Drama,4.4169073
+332,The Big Bus (1976),Action|Comedy,4.4169073
+333,Bossa Nova (2000),Comedy|Drama|Romance,4.8025446
+333,Reign Over Me (2007),Drama,3.925699
+333,On the Beach (1959),Drama,3.840383
+333,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,3.751468
+333,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,3.7350953
+334,Saving Face (2004),Comedy|Drama|Romance,4.3078647
+334,On the Beach (1959),Drama,4.3014274
+334,Strictly Sexual (2008),Comedy|Drama|Romance,4.1093745
+334,Cosmos,(no genres listed),4.084174
+334,North & South (2004),Drama|Romance,4.0739045
+335,On the Beach (1959),Drama,5.019516
+335,Saving Face (2004),Comedy|Drama|Romance,5.007979
+335,Belle époque (1992),Comedy|Romance,4.857
+335,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,4.798211
+335,North & South (2004),Drama|Romance,4.747125
+336,On the Beach (1959),Drama,5.414101
+336,Saving Face (2004),Comedy|Drama|Romance,5.358564
+336,Cosmos,(no genres listed),5.2762556
+336,De platte jungle (1978),Documentary,5.222951
+336,Blue Planet II (2017),Documentary,5.222951
+337,Strictly Sexual (2008),Comedy|Drama|Romance,5.551611
+337,De platte jungle (1978),Documentary,5.399544
+337,Blue Planet II (2017),Documentary,5.399544
+337,Nasu: Summer in Andalusia (2003),Animation,5.399544
+337,Bitter Lake (2015),Documentary,5.399544
+338,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.638157
+338,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.54641
+338,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi,4.298296
+338,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.2637267
+338,On the Beach (1959),Drama,4.2429924
+339,On the Beach (1959),Drama,5.1587043
+339,Cosmos,(no genres listed),4.9952335
+339,De platte jungle (1978),Documentary,4.9245677
+339,Blue Planet II (2017),Documentary,4.9245677
+339,Nasu: Summer in Andalusia (2003),Animation,4.9245677
+340,On the Beach (1959),Drama,5.4103937
+340,Saving Face (2004),Comedy|Drama|Romance,5.4045553
+340,Cosmos,(no genres listed),5.1246743
+340,North & South (2004),Drama|Romance,5.058503
+340,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.9807286
+341,De platte jungle (1978),Documentary,5.04465
+341,Blue Planet II (2017),Documentary,5.04465
+341,Nasu: Summer in Andalusia (2003),Animation,5.04465
+341,Bitter Lake (2015),Documentary,5.04465
+341,Watermark (2014),Documentary,5.04465
+342,On the Beach (1959),Drama,4.095385
+342,De platte jungle (1978),Documentary,4.063156
+342,Blue Planet II (2017),Documentary,4.063156
+342,Nasu: Summer in Andalusia (2003),Animation,4.063156
+342,Bitter Lake (2015),Documentary,4.063156
+343,"Jetée, La (1962)",Romance|Sci-Fi,4.8721375
+343,On the Beach (1959),Drama,4.8350716
+343,Come and See (Idi i smotri) (1985),Drama|War,4.816699
+343,Saving Face (2004),Comedy|Drama|Romance,4.749349
+343,Cosmos,(no genres listed),4.6657853
+344,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.1307387
+344,Strictly Sexual (2008),Comedy|Drama|Romance,4.8863482
+344,Submarine (2010),Comedy|Drama|Romance,4.8624735
+344,Reign Over Me (2007),Drama,4.740769
+344,Saving Face (2004),Comedy|Drama|Romance,4.716304
+345,On the Beach (1959),Drama,5.025586
+345,Saving Face (2004),Comedy|Drama|Romance,5.0211406
+345,3-Iron (Bin-jip) (2004),Drama|Romance,4.949113
+345,Cosmos,(no genres listed),4.8672147
+345,Seve (2014),Documentary|Drama,4.861108
+346,On the Beach (1959),Drama,4.4981174
+346,Captain Fantastic (2016),Drama,4.478317
+346,"Jetée, La (1962)",Romance|Sci-Fi,4.463453
+346,Come and See (Idi i smotri) (1985),Drama|War,4.4311037
+346,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.4202847
+347,Saving Face (2004),Comedy|Drama|Romance,4.6330523
+347,Strictly Sexual (2008),Comedy|Drama|Romance,4.5414786
+347,On the Beach (1959),Drama,4.4887223
+347,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.432572
+347,North & South (2004),Drama|Romance,4.419419
+348,On the Beach (1959),Drama,5.6260777
+348,Saving Face (2004),Comedy|Drama|Romance,5.471151
+348,Cosmos,(no genres listed),5.4564424
+348,Belle époque (1992),Comedy|Romance,5.3865905
+348,De platte jungle (1978),Documentary,5.3847213
+349,On the Beach (1959),Drama,4.8412347
+349,Saving Face (2004),Comedy|Drama|Romance,4.819079
+349,Cosmos,(no genres listed),4.701121
+349,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.674902
+349,De platte jungle (1978),Documentary,4.64303
+350,Saving Face (2004),Comedy|Drama|Romance,4.314381
+350,On the Beach (1959),Drama,4.1950474
+350,Strictly Sexual (2008),Comedy|Drama|Romance,4.1291437
+350,Cosmos,(no genres listed),4.0884266
+350,North & South (2004),Drama|Romance,4.0742726
+351,On the Beach (1959),Drama,4.6421885
+351,Saving Face (2004),Comedy|Drama|Romance,4.5879416
+351,Cosmos,(no genres listed),4.537709
+351,De platte jungle (1978),Documentary,4.5004854
+351,Blue Planet II (2017),Documentary,4.5004854
+352,On the Beach (1959),Drama,5.0256324
+352,Saving Face (2004),Comedy|Drama|Romance,4.9306226
+352,Cosmos,(no genres listed),4.8334866
+352,"Visitor, The (2007)",Drama|Romance,4.747868
+352,De platte jungle (1978),Documentary,4.744298
+353,On the Beach (1959),Drama,5.036569
+353,Seve (2014),Documentary|Drama,4.8277493
+353,The Big Bus (1976),Action|Comedy,4.8277493
+353,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.700001
+353,Cosmos,(no genres listed),4.662925
+354,On the Beach (1959),Drama,4.861207
+354,Saving Face (2004),Comedy|Drama|Romance,4.7174716
+354,Cosmos,(no genres listed),4.6918077
+354,De platte jungle (1978),Documentary,4.6157193
+354,Blue Planet II (2017),Documentary,4.6157193
+355,On the Beach (1959),Drama,5.2532377
+355,Saving Face (2004),Comedy|Drama|Romance,5.1614137
+355,"Visitor, The (2007)",Drama|Romance,4.9939528
+355,Cosmos,(no genres listed),4.989738
+355,De platte jungle (1978),Documentary,4.857754
+356,On the Beach (1959),Drama,5.0429974
+356,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.9171762
+356,Seve (2014),Documentary|Drama,4.867802
+356,The Big Bus (1976),Action|Comedy,4.867802
+356,Cosmos,(no genres listed),4.844178
+357,Saving Face (2004),Comedy|Drama|Romance,4.9583035
+357,On the Beach (1959),Drama,4.9362617
+357,Into the Woods (1991),Adventure|Comedy|Fantasy|Musical,4.8239512
+357,Seve (2014),Documentary|Drama,4.817448
+357,The Big Bus (1976),Action|Comedy,4.817448
+358,"Very Potter Sequel, A (2010)",Comedy|Musical,4.6973968
+358,12 Angry Men (1997),Crime|Drama,4.6973968
+358,Mr. Skeffington (1944),Drama|Romance,4.6973968
+358,"Duchess, The (2008)",Drama|Romance,4.61987
+358,Guess Who's Coming to Dinner (1967),Drama,4.566107
+359,"Very Potter Sequel, A (2010)",Comedy|Musical,4.3400917
+359,12 Angry Men (1997),Crime|Drama,4.3400917
+359,Mr. Skeffington (1944),Drama|Romance,4.3400917
+359,Adam's Rib (1949),Comedy|Romance,4.282125
+359,Guess Who's Coming to Dinner (1967),Drama,4.2344465
+360,Lady Jane (1986),Drama|Romance,4.8943877
+360,Crossing Delancey (1988),Comedy|Romance,4.8943877
+360,"Impostors, The (1998)",Comedy,4.8943877
+360,"Last Detail, The (1973)",Comedy|Drama,4.8127966
+360,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975),Comedy|Drama,4.8080673
+361,Strictly Sexual (2008),Comedy|Drama|Romance,4.4602666
+361,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.2337484
+361,Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,4.0222487
+361,What's Your Number? (2011),Comedy|Romance,4.01424
+361,"Stoning of Soraya M., The (2008)",Crime|Drama,4.01424
+362,On the Beach (1959),Drama,5.2981157
+362,Saving Face (2004),Comedy|Drama|Romance,5.0941143
+362,Cosmos,(no genres listed),5.059517
+362,De platte jungle (1978),Documentary,4.9432025
+362,Blue Planet II (2017),Documentary,4.9432025
+363,"Jetée, La (1962)",Romance|Sci-Fi,4.333683
+363,Come and See (Idi i smotri) (1985),Drama|War,4.3050766
+363,On the Beach (1959),Drama,4.1099434
+363,De platte jungle (1978),Documentary,4.0792475
+363,Blue Planet II (2017),Documentary,4.0792475
+364,Saving Face (2004),Comedy|Drama|Romance,5.0904036
+364,On the Beach (1959),Drama,5.079054
+364,Seve (2014),Documentary|Drama,5.039229
+364,The Big Bus (1976),Action|Comedy,5.039229
+364,Cosmos,(no genres listed),4.9354563
+365,The Night Before (2015),Comedy,4.3778167
+365,The Interview (2014),Action|Comedy,3.9636462
+365,21 and Over (2013),Comedy,3.714611
+365,"Hangover Part III, The (2013)",Comedy,3.6039968
+365,Pineapple Express (2008),Action|Comedy|Crime,3.5824308
+366,On the Beach (1959),Drama,4.9181814
+366,"Jetée, La (1962)",Romance|Sci-Fi,4.803303
+366,Saving Face (2004),Comedy|Drama|Romance,4.772973
+366,Come and See (Idi i smotri) (1985),Drama|War,4.7369843
+366,Seve (2014),Documentary|Drama,4.622059
+367,Adam's Rib (1949),Comedy|Romance,5.1021795
+367,"Very Potter Sequel, A (2010)",Comedy|Musical,5.0986805
+367,12 Angry Men (1997),Crime|Drama,5.0986805
+367,Mr. Skeffington (1944),Drama|Romance,5.0986805
+367,Saving Face (2004),Comedy|Drama|Romance,5.0676985
+368,On the Beach (1959),Drama,4.0894413
+368,Seve (2014),Documentary|Drama,4.0187407
+368,The Big Bus (1976),Action|Comedy,4.0187407
+368,"Jetée, La (1962)",Romance|Sci-Fi,3.9772985
+368,Come and See (Idi i smotri) (1985),Drama|War,3.9488833
+369,On the Beach (1959),Drama,4.391915
+369,Saving Face (2004),Comedy|Drama|Romance,4.3298345
+369,Cosmos,(no genres listed),4.314026
+369,De platte jungle (1978),Documentary,4.2917733
+369,Blue Planet II (2017),Documentary,4.2917733
+370,"Jetée, La (1962)",Romance|Sci-Fi,4.4724836
+370,Come and See (Idi i smotri) (1985),Drama|War,4.4723096
+370,On the Beach (1959),Drama,4.446424
+370,Saving Face (2004),Comedy|Drama|Romance,4.308431
+370,Cosmos,(no genres listed),4.277785
+371,On the Beach (1959),Drama,5.78064
+371,Cosmos,(no genres listed),5.573856
+371,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,5.489103
+371,De platte jungle (1978),Documentary,5.4800696
+371,Blue Planet II (2017),Documentary,5.4800696
+372,On the Beach (1959),Drama,4.441207
+372,"Crucible, The (1996)",Drama,4.3898554
+372,"Jetée, La (1962)",Romance|Sci-Fi,4.3453584
+372,Come and See (Idi i smotri) (1985),Drama|War,4.268872
+372,Saving Face (2004),Comedy|Drama|Romance,4.260882
+373,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.7749186
+373,The Artist (2011),Comedy|Drama|Romance,4.699957
+373,Burnt by the Sun (Utomlyonnye solntsem) (1994),Drama,4.644759
+373,Open Hearts (Elsker dig for evigt) (2002),Romance,4.6399894
+373,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.63802
+374,Come and See (Idi i smotri) (1985),Drama|War,4.922103
+374,"Jetée, La (1962)",Romance|Sci-Fi,4.9192634
+374,On the Beach (1959),Drama,4.8717985
+374,Saving Face (2004),Comedy|Drama|Romance,4.787409
+374,Cosmos,(no genres listed),4.714751
+375,Come and See (Idi i smotri) (1985),Drama|War,5.569252
+375,"Jetée, La (1962)",Romance|Sci-Fi,5.490995
+375,Captain Fantastic (2016),Drama,5.3906336
+375,On the Beach (1959),Drama,5.324194
+375,Belle époque (1992),Comedy|Romance,5.153967
+376,On the Beach (1959),Drama,5.06223
+376,Saving Face (2004),Comedy|Drama|Romance,5.0446343
+376,Cosmos,(no genres listed),4.8639297
+376,Strictly Sexual (2008),Comedy|Drama|Romance,4.8435144
+376,"Visitor, The (2007)",Drama|Romance,4.772731
+377,On the Beach (1959),Drama,5.419335
+377,"Jetée, La (1962)",Romance|Sci-Fi,5.1032615
+377,"Visitor, The (2007)",Drama|Romance,5.0913424
+377,Saving Face (2004),Comedy|Drama|Romance,5.073457
+377,Cosmos,(no genres listed),5.0657687
+378,On the Beach (1959),Drama,4.750256
+378,Saving Face (2004),Comedy|Drama|Romance,4.6988153
+378,Seve (2014),Documentary|Drama,4.5823345
+378,The Big Bus (1976),Action|Comedy,4.5823345
+378,Cosmos,(no genres listed),4.558732
+379,Thief (1981),Crime|Drama|Thriller,4.20651
+379,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.1998467
+379,Glory Road (2006),Drama,4.0844264
+379,"Visitor, The (2007)",Drama|Romance,4.018866
+379,On the Beach (1959),Drama,4.0159054
+380,On the Beach (1959),Drama,5.3911624
+380,Saving Face (2004),Comedy|Drama|Romance,5.293015
+380,Cosmos,(no genres listed),5.065775
+380,"Jetée, La (1962)",Romance|Sci-Fi,4.9048767
+380,De platte jungle (1978),Documentary,4.8963223
+381,Saving Face (2004),Comedy|Drama|Romance,4.8019
+381,Strictly Sexual (2008),Comedy|Drama|Romance,4.6116924
+381,North & South (2004),Drama|Romance,4.578835
+381,On the Beach (1959),Drama,4.5590563
+381,Adam's Rib (1949),Comedy|Romance,4.5156417
+382,On the Beach (1959),Drama,5.352537
+382,Saving Face (2004),Comedy|Drama|Romance,5.299713
+382,Cosmos,(no genres listed),5.0676503
+382,Lady Jane (1986),Drama|Romance,5.0665584
+382,Crossing Delancey (1988),Comedy|Romance,5.0665584
+383,Saving Face (2004),Comedy|Drama|Romance,4.925658
+383,"Jetée, La (1962)",Romance|Sci-Fi,4.79283
+383,Come and See (Idi i smotri) (1985),Drama|War,4.768404
+383,Adam's Rib (1949),Comedy|Romance,4.738862
+383,On the Beach (1959),Drama,4.7246485
+384,"Jetée, La (1962)",Romance|Sci-Fi,4.627256
+384,Come and See (Idi i smotri) (1985),Drama|War,4.6074533
+384,Lady Jane (1986),Drama|Romance,4.390276
+384,Crossing Delancey (1988),Comedy|Romance,4.390276
+384,"Impostors, The (1998)",Comedy,4.390276
+385,On the Beach (1959),Drama,4.6828895
+385,Saving Face (2004),Comedy|Drama|Romance,4.3832445
+385,Cosmos,(no genres listed),4.3322434
+385,Belle époque (1992),Comedy|Romance,4.3277917
+385,Seve (2014),Documentary|Drama,4.323822
+386,On the Beach (1959),Drama,3.9936316
+386,"Jetée, La (1962)",Romance|Sci-Fi,3.9052272
+386,Come and See (Idi i smotri) (1985),Drama|War,3.8254905
+386,Saving Face (2004),Comedy|Drama|Romance,3.774744
+386,Cosmos,(no genres listed),3.737815
+387,On the Beach (1959),Drama,4.3793726
+387,Through a Glass Darkly (Såsom i en spegel) (1961),Drama,4.301546
+387,"What's Up, Doc? (1972)",Comedy,4.301546
+387,Another Woman (1988),Drama,4.301546
+387,Captain Fantastic (2016),Drama,4.281785
+388,Strictly Sexual (2008),Comedy|Drama|Romance,5.183754
+388,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,5.0174165
+388,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.974168
+388,Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,4.7962246
+388,What's Your Number? (2011),Comedy|Romance,4.66538
+389,Saving Face (2004),Comedy|Drama|Romance,5.580491
+389,On the Beach (1959),Drama,5.4796042
+389,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.4033117
+389,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,5.386268
+389,Cosmos,(no genres listed),5.382622
+390,Saving Face (2004),Comedy|Drama|Romance,4.9016705
+390,On the Beach (1959),Drama,4.866987
+390,9/11 (2002),Documentary,4.8364897
+390,Deathgasm (2015),Comedy|Horror,4.7663074
+390,Come and See (Idi i smotri) (1985),Drama|War,4.7283363
+391,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,4.863482
+391,Satin Rouge (2002),Drama|Musical,4.8389754
+391,On the Beach (1959),Drama,4.797918
+391,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",Drama,4.7967567
+391,Seve (2014),Documentary|Drama,4.7173924
+392,Come and See (Idi i smotri) (1985),Drama|War,5.0518374
+392,"Jetée, La (1962)",Romance|Sci-Fi,4.993341
+392,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,4.709676
+392,World of Tomorrow (2015),Animation|Comedy,4.6843796
+392,On the Beach (1959),Drama,4.547941
+393,Deathgasm (2015),Comedy|Horror,5.2560873
+393,"Jetée, La (1962)",Romance|Sci-Fi,5.0680714
+393,Saving Face (2004),Comedy|Drama|Romance,4.928602
+393,Come and See (Idi i smotri) (1985),Drama|War,4.8949337
+393,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,4.882419
+394,Seve (2014),Documentary|Drama,3.9406848
+394,The Big Bus (1976),Action|Comedy,3.9406848
+394,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,3.8312464
+394,On the Beach (1959),Drama,3.8021078
+394,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,3.7374368
+395,Strictly Sexual (2008),Comedy|Drama|Romance,4.234279
+395,Saving Face (2004),Comedy|Drama|Romance,4.132998
+395,North & South (2004),Drama|Romance,3.9374945
+395,On the Beach (1959),Drama,3.9258683
+395,De platte jungle (1978),Documentary,3.9226818
+396,Seve (2014),Documentary|Drama,4.347227
+396,The Big Bus (1976),Action|Comedy,4.347227
+396,On the Beach (1959),Drama,4.34034
+396,Yojimbo (1961),Action|Adventure,4.3056626
+396,"Jetée, La (1962)",Romance|Sci-Fi,4.2987747
+397,On the Beach (1959),Drama,4.7151303
+397,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.692279
+397,Chungking Express (Chung Hing sam lam) (1994),Drama|Mystery|Romance,4.6763887
+397,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.671401
+397,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy,4.605982
+398,Saving Face (2004),Comedy|Drama|Romance,5.051037
+398,On the Beach (1959),Drama,5.019375
+398,Play Time (a.k.a. Playtime) (1967),Comedy,4.975008
+398,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.9606996
+398,Belle époque (1992),Comedy|Romance,4.915725
+399,Saving Face (2004),Comedy|Drama|Romance,4.6585407
+399,Seve (2014),Documentary|Drama,4.6576414
+399,The Big Bus (1976),Action|Comedy,4.6576414
+399,On the Beach (1959),Drama,4.542962
+399,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.5311418
+400,On the Beach (1959),Drama,5.386813
+400,Saving Face (2004),Comedy|Drama|Romance,5.116283
+400,"Jetée, La (1962)",Romance|Sci-Fi,5.0770106
+400,Cosmos,(no genres listed),5.0542974
+400,Seve (2014),Documentary|Drama,5.0387154
+401,Saving Face (2004),Comedy|Drama|Romance,4.5415306
+401,Adam's Rib (1949),Comedy|Romance,4.2111945
+401,On the Beach (1959),Drama,4.1892495
+401,North & South (2004),Drama|Romance,4.1571407
+401,"Very Potter Sequel, A (2010)",Comedy|Musical,4.140029
+402,Saving Face (2004),Comedy|Drama|Romance,5.1111736
+402,On the Beach (1959),Drama,5.0667653
+402,Cosmos,(no genres listed),4.9059973
+402,De platte jungle (1978),Documentary,4.83646
+402,Blue Planet II (2017),Documentary,4.83646
+403,"Jetée, La (1962)",Romance|Sci-Fi,4.8277655
+403,On the Beach (1959),Drama,4.8038716
+403,Come and See (Idi i smotri) (1985),Drama|War,4.7935076
+403,Seve (2014),Documentary|Drama,4.7012625
+403,The Big Bus (1976),Action|Comedy,4.7012625
+404,On the Beach (1959),Drama,4.35798
+404,Saving Face (2004),Comedy|Drama|Romance,4.314218
+404,Cosmos,(no genres listed),4.236555
+404,De platte jungle (1978),Documentary,4.187172
+404,Blue Planet II (2017),Documentary,4.187172
+405,On the Beach (1959),Drama,4.901511
+405,Saving Face (2004),Comedy|Drama|Romance,4.835092
+405,Ex Drummer (2007),Comedy|Crime|Drama|Horror,4.8170934
+405,Cosmos,(no genres listed),4.8142123
+405,"Jetée, La (1962)",Romance|Sci-Fi,4.7968335
+406,Strictly Sexual (2008),Comedy|Drama|Romance,4.5091524
+406,Just Go with It (2011),Comedy|Romance,4.507529
+406,"Truly, Madly, Deeply (1991)",Drama|Romance,4.456707
+406,Life as We Know It (2010),Comedy|Romance,4.455934
+406,Enough (2002),Drama|Thriller,4.4177675
+407,Saving Face (2004),Comedy|Drama|Romance,4.4925246
+407,On the Beach (1959),Drama,4.490548
+407,Deathgasm (2015),Comedy|Horror,4.447125
+407,"Jetée, La (1962)",Romance|Sci-Fi,4.3722506
+407,Lady Jane (1986),Drama|Romance,4.3381186
+408,On the Beach (1959),Drama,5.312701
+408,Saving Face (2004),Comedy|Drama|Romance,5.2031736
+408,Strictly Sexual (2008),Comedy|Drama|Romance,5.0683813
+408,Cosmos,(no genres listed),5.063012
+408,Deathgasm (2015),Comedy|Horror,5.018428
+409,On the Beach (1959),Drama,5.1519322
+409,Seve (2014),Documentary|Drama,4.9559426
+409,The Big Bus (1976),Action|Comedy,4.9559426
+409,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.9013395
+409,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.8588934
+410,"Jetée, La (1962)",Romance|Sci-Fi,4.8752117
+410,Come and See (Idi i smotri) (1985),Drama|War,4.8718834
+410,"Affair of Love, An (Liaison pornographique, Une) (1999)",Drama|Romance,4.808671
+410,Captain Fantastic (2016),Drama,4.8069453
+410,Woman in the Dunes (Suna no onna) (1964),Drama,4.7952194
+411,On the Beach (1959),Drama,4.377503
+411,Saving Face (2004),Comedy|Drama|Romance,4.326442
+411,Seve (2014),Documentary|Drama,4.3116813
+411,The Big Bus (1976),Action|Comedy,4.3116813
+411,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.214539
+412,On the Beach (1959),Drama,5.0061483
+412,Lady Jane (1986),Drama|Romance,4.7343984
+412,Crossing Delancey (1988),Comedy|Romance,4.7343984
+412,"Impostors, The (1998)",Comedy,4.7343984
+412,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.668759
+413,Strictly Sexual (2008),Comedy|Drama|Romance,5.4357862
+413,Saving Face (2004),Comedy|Drama|Romance,5.374459
+413,Deathgasm (2015),Comedy|Horror,5.3622303
+413,Thief (1981),Crime|Drama|Thriller,5.277259
+413,De platte jungle (1978),Documentary,5.247806
+414,On the Beach (1959),Drama,4.949874
+414,"Jetée, La (1962)",Romance|Sci-Fi,4.8243227
+414,All the Real Girls (2003),Drama|Romance,4.8166156
+414,Cherish (2002),Comedy|Drama|Thriller,4.8166156
+414,Rain (2001),Drama|Romance,4.8166156
+415,On the Beach (1959),Drama,5.0687165
+415,Seve (2014),Documentary|Drama,4.880125
+415,The Big Bus (1976),Action|Comedy,4.880125
+415,Cosmos,(no genres listed),4.8306103
+415,Saving Face (2004),Comedy|Drama|Romance,4.8060427
+416,Bad Boy Bubby (1993),Drama,4.771738
+416,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,4.568646
+416,Morvern Callar (2002),Drama,4.445078
+416,Burnt by the Sun (Utomlyonnye solntsem) (1994),Drama,4.4365487
+416,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.353653
+417,On the Beach (1959),Drama,5.264971
+417,Saving Face (2004),Comedy|Drama|Romance,5.1628876
+417,Belle époque (1992),Comedy|Romance,5.096444
+417,Deathgasm (2015),Comedy|Horror,5.089562
+417,Cosmos,(no genres listed),5.0862145
+418,Captain Fantastic (2016),Drama,5.325116
+418,The Artist (2011),Comedy|Drama|Romance,5.237234
+418,Call Me by Your Name (2017),Drama|Romance,4.845218
+418,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.663726
+418,Baraka (1992),Documentary,4.638775
+419,On the Beach (1959),Drama,4.9958377
+419,"Imposter, The (2012)",Documentary,4.8572493
+419,Into the Abyss (2011),Documentary,4.8473644
+419,Louis Theroux: Law & Disorder (2008),Documentary,4.8473644
+419,Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003),Action|Drama|Thriller|War,4.8473644
+420,On the Beach (1959),Drama,4.8738422
+420,Saving Face (2004),Comedy|Drama|Romance,4.791408
+420,Cosmos,(no genres listed),4.69785
+420,Belle époque (1992),Comedy|Romance,4.6332426
+420,Seve (2014),Documentary|Drama,4.6260853
+421,On the Beach (1959),Drama,5.0227785
+421,"Jetée, La (1962)",Romance|Sci-Fi,4.9222727
+421,Lady Jane (1986),Drama|Romance,4.9117804
+421,Crossing Delancey (1988),Comedy|Romance,4.9117804
+421,"Impostors, The (1998)",Comedy,4.9117804
+422,On the Beach (1959),Drama,4.718909
+422,Saving Face (2004),Comedy|Drama|Romance,4.4476213
+422,Seve (2014),Documentary|Drama,4.375974
+422,The Big Bus (1976),Action|Comedy,4.375974
+422,"Visitor, The (2007)",Drama|Romance,4.3526015
+423,Seve (2014),Documentary|Drama,4.9843535
+423,The Big Bus (1976),Action|Comedy,4.9843535
+423,On the Beach (1959),Drama,4.9556165
+423,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.8285036
+423,"General, The (1926)",Comedy|War,4.828221
+424,Larry David: Curb Your Enthusiasm (1999),Comedy,4.822157
+424,Prisoners (2013),Drama|Mystery|Thriller,4.4701147
+424,Ex Drummer (2007),Comedy|Crime|Drama|Horror,4.427572
+424,De platte jungle (1978),Documentary,4.425392
+424,Blue Planet II (2017),Documentary,4.425392
+425,Saving Face (2004),Comedy|Drama|Romance,4.5148764
+425,On the Beach (1959),Drama,4.4904613
+425,De platte jungle (1978),Documentary,4.462024
+425,Blue Planet II (2017),Documentary,4.462024
+425,Nasu: Summer in Andalusia (2003),Animation,4.462024
+426,"Very Potter Sequel, A (2010)",Comedy|Musical,4.7890415
+426,12 Angry Men (1997),Crime|Drama,4.7890415
+426,Mr. Skeffington (1944),Drama|Romance,4.7890415
+426,Strictly Sexual (2008),Comedy|Drama|Romance,4.759612
+426,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.6605988
+427,On the Beach (1959),Drama,4.5515823
+427,Cosmos,(no genres listed),4.350363
+427,"Jetée, La (1962)",Romance|Sci-Fi,4.314973
+427,Come and See (Idi i smotri) (1985),Drama|War,4.282931
+427,Bad Boy Bubby (1993),Drama,4.2732396
+428,On the Beach (1959),Drama,3.9181225
+428,Bad Boy Bubby (1993),Drama,3.7128305
+428,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,3.6822665
+428,"Visitor, The (2007)",Drama|Romance,3.6721816
+428,Cosmos,(no genres listed),3.668587
+429,Thief (1981),Crime|Drama|Thriller,5.2488503
+429,Saving Face (2004),Comedy|Drama|Romance,5.2354054
+429,"Very Potter Sequel, A (2010)",Comedy|Musical,5.179908
+429,12 Angry Men (1997),Crime|Drama,5.179908
+429,Mr. Skeffington (1944),Drama|Romance,5.179908
+430,On the Beach (1959),Drama,5.0783453
+430,"Jetée, La (1962)",Romance|Sci-Fi,4.818708
+430,Lady Jane (1986),Drama|Romance,4.807481
+430,Crossing Delancey (1988),Comedy|Romance,4.807481
+430,"Impostors, The (1998)",Comedy,4.807481
+431,On the Beach (1959),Drama,4.2532
+431,Captain Fantastic (2016),Drama,4.217979
+431,Hour of the Wolf (Vargtimmen) (1968),Drama|Horror,4.142564
+431,Gallipoli (1981),Drama|War,4.1257553
+431,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.1248846
+432,Peaceful Warrior (2006),Drama,4.822737
+432,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,4.5770264
+432,Battlestar Galactica (2003),Drama|Sci-Fi|War,4.479945
+432,De platte jungle (1978),Documentary,4.4240494
+432,Blue Planet II (2017),Documentary,4.4240494
+433,Saving Face (2004),Comedy|Drama|Romance,4.5159917
+433,On the Beach (1959),Drama,4.384484
+433,Seve (2014),Documentary|Drama,4.354201
+433,The Big Bus (1976),Action|Comedy,4.354201
+433,North & South (2004),Drama|Romance,4.2736115
+434,On the Beach (1959),Drama,5.0875487
+434,"Jetée, La (1962)",Romance|Sci-Fi,4.9461975
+434,Come and See (Idi i smotri) (1985),Drama|War,4.8778257
+434,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.7753644
+434,Seve (2014),Documentary|Drama,4.764982
+435,On the Beach (1959),Drama,5.3424234
+435,Seve (2014),Documentary|Drama,5.2318034
+435,The Big Bus (1976),Action|Comedy,5.2318034
+435,Saving Face (2004),Comedy|Drama|Romance,5.2187552
+435,Cosmos,(no genres listed),5.1997685
+436,Saving Face (2004),Comedy|Drama|Romance,4.260071
+436,On the Beach (1959),Drama,4.230927
+436,Seve (2014),Documentary|Drama,4.2160854
+436,The Big Bus (1976),Action|Comedy,4.2160854
+436,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,4.2109885
+437,On the Beach (1959),Drama,5.049953
+437,"Jetée, La (1962)",Romance|Sci-Fi,4.861327
+437,Seve (2014),Documentary|Drama,4.797318
+437,The Big Bus (1976),Action|Comedy,4.797318
+437,Saving Face (2004),Comedy|Drama|Romance,4.796718
+438,On the Beach (1959),Drama,4.7498755
+438,Saving Face (2004),Comedy|Drama|Romance,4.7100563
+438,Seve (2014),Documentary|Drama,4.5200853
+438,The Big Bus (1976),Action|Comedy,4.5200853
+438,Strictly Sexual (2008),Comedy|Drama|Romance,4.501712
+439,On the Beach (1959),Drama,4.9405746
+439,Saving Face (2004),Comedy|Drama|Romance,4.8926506
+439,Come and See (Idi i smotri) (1985),Drama|War,4.8246255
+439,"Jetée, La (1962)",Romance|Sci-Fi,4.816746
+439,Seve (2014),Documentary|Drama,4.8033504
+440,On the Beach (1959),Drama,5.1098614
+440,"Jetée, La (1962)",Romance|Sci-Fi,4.967118
+440,Come and See (Idi i smotri) (1985),Drama|War,4.9188466
+440,Saving Face (2004),Comedy|Drama|Romance,4.872547
+440,Cosmos,(no genres listed),4.8020267
+441,On the Beach (1959),Drama,5.5704217
+441,Saving Face (2004),Comedy|Drama|Romance,5.4461613
+441,Cosmos,(no genres listed),5.3005204
+441,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,5.267366
+441,"Jetée, La (1962)",Romance|Sci-Fi,5.2627816
+442,Submarine (2010),Comedy|Drama|Romance,2.1697688
+442,"Perks of Being a Wallflower, The (2012)",Drama|Romance,1.90649
+442,Doctor Who: The Time of the Doctor (2013),Adventure|Drama,1.8907813
+442,3-Iron (Bin-jip) (2004),Drama|Romance,1.8772101
+442,"Day of the Doctor, The (2013)",Adventure|Drama|Sci-Fi,1.8729963
+443,"Very Potter Sequel, A (2010)",Comedy|Musical,4.9018326
+443,12 Angry Men (1997),Crime|Drama,4.9018326
+443,Mr. Skeffington (1944),Drama|Romance,4.9018326
+443,Adam's Rib (1949),Comedy|Romance,4.8814735
+443,"Odd Life of Timothy Green, The (2012)",Comedy|Drama|Fantasy,4.8434606
+444,On the Beach (1959),Drama,4.9894094
+444,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.7764072
+444,Saving Face (2004),Comedy|Drama|Romance,4.7449327
+444,Seve (2014),Documentary|Drama,4.7349734
+444,The Big Bus (1976),Action|Comedy,4.7349734
+445,"Jetée, La (1962)",Romance|Sci-Fi,4.7048736
+445,On the Beach (1959),Drama,4.6983376
+445,Come and See (Idi i smotri) (1985),Drama|War,4.62312
+445,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.5383143
+445,Seve (2014),Documentary|Drama,4.4068027
+446,On the Beach (1959),Drama,4.429842
+446,Saving Face (2004),Comedy|Drama|Romance,4.181313
+446,Cosmos,(no genres listed),4.139453
+446,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.1297164
+446,"Visitor, The (2007)",Drama|Romance,4.100767
+447,Saving Face (2004),Comedy|Drama|Romance,5.1704497
+447,On the Beach (1959),Drama,5.1444616
+447,Come and See (Idi i smotri) (1985),Drama|War,5.099403
+447,Seve (2014),Documentary|Drama,5.097098
+447,The Big Bus (1976),Action|Comedy,5.097098
+448,Seve (2014),Documentary|Drama,4.7894793
+448,The Big Bus (1976),Action|Comedy,4.7894793
+448,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6268096
+448,"Day at the Races, A (1937)",Comedy|Musical,4.5068264
+448,On the Beach (1959),Drama,4.417219
+449,"Jetée, La (1962)",Romance|Sci-Fi,4.4690194
+449,On the Beach (1959),Drama,4.4172974
+449,Come and See (Idi i smotri) (1985),Drama|War,4.359186
+449,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,4.194818
+449,Bad Boy Bubby (1993),Drama,4.1934342
+450,On the Beach (1959),Drama,5.195028
+450,Saving Face (2004),Comedy|Drama|Romance,5.116544
+450,Cosmos,(no genres listed),5.0523243
+450,De platte jungle (1978),Documentary,4.99472
+450,Blue Planet II (2017),Documentary,4.99472
+451,On the Beach (1959),Drama,5.360303
+451,Saving Face (2004),Comedy|Drama|Romance,5.052448
+451,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,5.040337
+451,Cosmos,(no genres listed),5.0236583
+451,Autumn Sonata (Höstsonaten) (1978),Drama,4.959716
+452,Saving Face (2004),Comedy|Drama|Romance,5.9280734
+452,On the Beach (1959),Drama,5.845487
+452,Cosmos,(no genres listed),5.761251
+452,De platte jungle (1978),Documentary,5.7436533
+452,Blue Planet II (2017),Documentary,5.7436533
+453,On the Beach (1959),Drama,5.3175826
+453,Saving Face (2004),Comedy|Drama|Romance,5.2155538
+453,Cosmos,(no genres listed),5.092392
+453,Seve (2014),Documentary|Drama,5.0454097
+453,The Big Bus (1976),Action|Comedy,5.0454097
+454,On the Beach (1959),Drama,4.6112804
+454,"Jetée, La (1962)",Romance|Sci-Fi,4.3727484
+454,Diabolique (Les diaboliques) (1955),Horror|Mystery|Thriller,4.3049216
+454,"General, The (1926)",Comedy|War,4.3025546
+454,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.3013067
+455,Saving Face (2004),Comedy|Drama|Romance,4.295105
+455,On the Beach (1959),Drama,4.2584424
+455,Seve (2014),Documentary|Drama,4.229008
+455,The Big Bus (1976),Action|Comedy,4.229008
+455,Cosmos,(no genres listed),4.185987
+456,Saving Face (2004),Comedy|Drama|Romance,5.0836315
+456,On the Beach (1959),Drama,5.008448
+456,Strictly Sexual (2008),Comedy|Drama|Romance,4.8910646
+456,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.866668
+456,Cosmos,(no genres listed),4.8571553
+457,On the Beach (1959),Drama,4.8791265
+457,Seve (2014),Documentary|Drama,4.603009
+457,The Big Bus (1976),Action|Comedy,4.603009
+457,Cosmos,(no genres listed),4.5893044
+457,"Visitor, The (2007)",Drama|Romance,4.5198803
+458,Strictly Sexual (2008),Comedy|Drama|Romance,5.1008244
+458,Thief (1981),Crime|Drama|Thriller,4.965142
+458,Saving Face (2004),Comedy|Drama|Romance,4.961046
+458,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.9557605
+458,On the Beach (1959),Drama,4.918476
+459,On the Beach (1959),Drama,5.2479753
+459,Saving Face (2004),Comedy|Drama|Romance,5.211983
+459,Cosmos,(no genres listed),4.996087
+459,"Jetée, La (1962)",Romance|Sci-Fi,4.9662156
+459,North & South (2004),Drama|Romance,4.964787
+460,Saving Face (2004),Comedy|Drama|Romance,5.169081
+460,On the Beach (1959),Drama,5.1447363
+460,Belle époque (1992),Comedy|Romance,4.954918
+460,North & South (2004),Drama|Romance,4.943713
+460,Cosmos,(no genres listed),4.9325
+461,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,4.015709
+461,Captain Fantastic (2016),Drama,3.9869444
+461,Reign Over Me (2007),Drama,3.9043021
+461,"Wolf Man, The (1941)",Drama|Fantasy|Horror,3.9001572
+461,The Night Before (2015),Comedy,3.8959625
+462,Won't You Be My Neighbor? (2018),Documentary,4.811591
+462,I Am Not Your Negro (2017),Documentary,4.811591
+462,Moonlight,Drama,4.811591
+462,Indignation (2016),Drama,4.811591
+462,Who Killed Chea Vichea? (2010),Documentary,4.811591
+463,On the Beach (1959),Drama,4.8634524
+463,Saving Face (2004),Comedy|Drama|Romance,4.742389
+463,Cosmos,(no genres listed),4.6794395
+463,"Visitor, The (2007)",Drama|Romance,4.6295447
+463,De platte jungle (1978),Documentary,4.594323
+464,On the Beach (1959),Drama,4.817692
+464,"Visitor, The (2007)",Drama|Romance,4.781028
+464,Gentlemen of Fortune (Dzhentlmeny udachi) (1972),Comedy|Crime|Drama|Mystery,4.754895
+464,Cosmos,(no genres listed),4.7381425
+464,Obsession (1965),Comedy,4.7356114
+465,On the Beach (1959),Drama,5.3906536
+465,"Jetée, La (1962)",Romance|Sci-Fi,5.2343163
+465,Come and See (Idi i smotri) (1985),Drama|War,5.1736712
+465,Seve (2014),Documentary|Drama,5.1207995
+465,The Big Bus (1976),Action|Comedy,5.1207995
+466,Strictly Sexual (2008),Comedy|Drama|Romance,4.937689
+466,Saving Face (2004),Comedy|Drama|Romance,4.9154873
+466,De platte jungle (1978),Documentary,4.7378244
+466,Blue Planet II (2017),Documentary,4.7378244
+466,Nasu: Summer in Andalusia (2003),Animation,4.7378244
+467,The Artist (2011),Comedy|Drama|Romance,4.7332077
+467,Captain Fantastic (2016),Drama,4.3709674
+467,Guess Who's Coming to Dinner (1967),Drama,4.3564196
+467,Schindler's List (1993),Drama|War,4.347846
+467,Baraka (1992),Documentary,4.317578
+468,On the Beach (1959),Drama,4.3864217
+468,Saving Face (2004),Comedy|Drama|Romance,4.3595557
+468,My Sassy Girl (Yeopgijeogin geunyeo) (2001),Comedy|Romance,4.271544
+468,Cosmos,(no genres listed),4.2524753
+468,Adam's Rib (1949),Comedy|Romance,4.235645
+469,On the Beach (1959),Drama,4.9540553
+469,"Jetée, La (1962)",Romance|Sci-Fi,4.7255783
+469,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.6417966
+469,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,4.624581
+469,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.615874
+470,Saving Face (2004),Comedy|Drama|Romance,4.510575
+470,On the Beach (1959),Drama,4.462182
+470,Cosmos,(no genres listed),4.358585
+470,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.3427806
+470,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.3303266
+471,On the Beach (1959),Drama,4.650167
+471,Cosmos,(no genres listed),4.4878974
+471,Seve (2014),Documentary|Drama,4.4405084
+471,The Big Bus (1976),Action|Comedy,4.4405084
+471,Belle époque (1992),Comedy|Romance,4.4246364
+472,Reign Over Me (2007),Drama,5.0299025
+472,Strictly Sexual (2008),Comedy|Drama|Romance,5.029164
+472,"Visitor, The (2007)",Drama|Romance,4.967506
+472,Seve (2014),Documentary|Drama,4.963753
+472,The Big Bus (1976),Action|Comedy,4.963753
+473,Captain Fantastic (2016),Drama,4.722386
+473,On the Beach (1959),Drama,4.5993586
+473,Bad Boy Bubby (1993),Drama,4.5451193
+473,Cosmos,(no genres listed),4.5242996
+473,De platte jungle (1978),Documentary,4.5050206
+474,Lady Jane (1986),Drama|Romance,4.7981434
+474,Crossing Delancey (1988),Comedy|Romance,4.7981434
+474,"Impostors, The (1998)",Comedy,4.7981434
+474,Safety Last! (1923),Action|Comedy|Romance,4.560581
+474,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),Drama|War,4.4691186
+475,Saving Face (2004),Comedy|Drama|Romance,5.6710653
+475,On the Beach (1959),Drama,5.597835
+475,Cosmos,(no genres listed),5.4680862
+475,De platte jungle (1978),Documentary,5.4208727
+475,Blue Planet II (2017),Documentary,5.4208727
+476,On the Beach (1959),Drama,4.839877
+476,Seve (2014),Documentary|Drama,4.7878904
+476,The Big Bus (1976),Action|Comedy,4.7878904
+476,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6577506
+476,Saving Face (2004),Comedy|Drama|Romance,4.6425233
+477,On the Beach (1959),Drama,5.0589075
+477,Saving Face (2004),Comedy|Drama|Romance,4.911234
+477,Belle époque (1992),Comedy|Romance,4.90144
+477,Cosmos,(no genres listed),4.8779225
+477,More (1998),Animation|Drama|Sci-Fi|IMAX,4.8323226
+478,Saving Face (2004),Comedy|Drama|Romance,3.7985795
+478,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,3.7631214
+478,Lady Jane (1986),Drama|Romance,3.6908534
+478,Crossing Delancey (1988),Comedy|Romance,3.6908534
+478,"Impostors, The (1998)",Comedy,3.6908534
+479,Come and See (Idi i smotri) (1985),Drama|War,4.976946
+479,"Jetée, La (1962)",Romance|Sci-Fi,4.974321
+479,The Artist (2011),Comedy|Drama|Romance,4.87405
+479,On the Beach (1959),Drama,4.769682
+479,84 Charing Cross Road (1987),Drama|Romance,4.7398305
+480,On the Beach (1959),Drama,4.5636086
+480,"Jetée, La (1962)",Romance|Sci-Fi,4.5008826
+480,Come and See (Idi i smotri) (1985),Drama|War,4.416947
+480,Baraka (1992),Documentary,4.3957
+480,Saving Face (2004),Comedy|Drama|Romance,4.362641
+481,Reign Over Me (2007),Drama,3.923153
+481,"Very Potter Sequel, A (2010)",Comedy|Musical,3.8859744
+481,12 Angry Men (1997),Crime|Drama,3.8859744
+481,Mr. Skeffington (1944),Drama|Romance,3.8859744
+481,Jason's Lyric (1994),Crime|Drama,3.8804684
+482,Strictly Sexual (2008),Comedy|Drama|Romance,5.0936365
+482,Saving Face (2004),Comedy|Drama|Romance,4.974525
+482,"Visitor, The (2007)",Drama|Romance,4.9505377
+482,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.8996997
+482,On the Beach (1959),Drama,4.84541
+483,On the Beach (1959),Drama,4.918312
+483,Saving Face (2004),Comedy|Drama|Romance,4.8250976
+483,Belle époque (1992),Comedy|Romance,4.822651
+483,Eva (2011),Drama|Fantasy|Sci-Fi,4.820592
+483,Paper Birds (Pájaros de papel) (2010),Comedy|Drama,4.820592
+484,Seve (2014),Documentary|Drama,5.060027
+484,The Big Bus (1976),Action|Comedy,5.060027
+484,Saving Face (2004),Comedy|Drama|Romance,4.8952084
+484,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.8910975
+484,Trailer Park Boys (1999),Comedy|Crime,4.8520203
+485,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.1995835
+485,Titanic (1953),Action|Drama,4.8866878
+485,Thief (1981),Crime|Drama|Thriller,4.8393736
+485,Shall We Dance (1937),Comedy|Musical|Romance,4.807109
+485,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,4.772714
+486,On the Beach (1959),Drama,5.4196277
+486,Saving Face (2004),Comedy|Drama|Romance,5.333221
+486,Strictly Sexual (2008),Comedy|Drama|Romance,5.2612743
+486,Seve (2014),Documentary|Drama,5.1434984
+486,The Big Bus (1976),Action|Comedy,5.1434984
+487,The Artist (2011),Comedy|Drama|Romance,4.074069
+487,Captain Fantastic (2016),Drama,4.070123
+487,Lady Jane (1986),Drama|Romance,4.041139
+487,Crossing Delancey (1988),Comedy|Romance,4.041139
+487,"Impostors, The (1998)",Comedy,4.041139
+488,Saving Face (2004),Comedy|Drama|Romance,4.871877
+488,Lady Jane (1986),Drama|Romance,4.7137713
+488,Crossing Delancey (1988),Comedy|Romance,4.7137713
+488,"Impostors, The (1998)",Comedy,4.7137713
+488,Adam's Rib (1949),Comedy|Romance,4.615375
+489,"Skin I Live In, The (La piel que habito) (2011)",Drama,4.293839
+489,On the Beach (1959),Drama,4.277447
+489,Cat on a Hot Tin Roof (1958),Drama,4.234256
+489,Sophie's Choice (1982),Drama,4.2130156
+489,Meet Me in St. Louis (1944),Musical,4.205412
+490,On the Beach (1959),Drama,4.33394
+490,"Jetée, La (1962)",Romance|Sci-Fi,4.1741886
+490,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.113299
+490,Come and See (Idi i smotri) (1985),Drama|War,4.0726495
+490,Captain Fantastic (2016),Drama,4.0459514
+491,Saving Face (2004),Comedy|Drama|Romance,5.203733
+491,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.1306076
+491,Strictly Sexual (2008),Comedy|Drama|Romance,5.0569453
+491,De platte jungle (1978),Documentary,5.0042696
+491,Blue Planet II (2017),Documentary,5.0042696
+492,Strictly Sexual (2008),Comedy|Drama|Romance,4.9825807
+492,De platte jungle (1978),Documentary,4.9408355
+492,Blue Planet II (2017),Documentary,4.9408355
+492,Nasu: Summer in Andalusia (2003),Animation,4.9408355
+492,Bitter Lake (2015),Documentary,4.9408355
+493,Supercop 2 (Project S) (Chao ji ji hua) (1993),Action|Comedy|Crime|Thriller,4.831401
+493,On the Beach (1959),Drama,4.6460915
+493,Seve (2014),Documentary|Drama,4.584976
+493,The Big Bus (1976),Action|Comedy,4.584976
+493,"Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972)",Action|Crime,4.512572
+494,On the Beach (1959),Drama,5.2018514
+494,"Visitor, The (2007)",Drama|Romance,4.8386526
+494,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,4.806318
+494,Seve (2014),Documentary|Drama,4.7456074
+494,The Big Bus (1976),Action|Comedy,4.7456074
+495,On the Beach (1959),Drama,5.449291
+495,Cosmos,(no genres listed),5.12949
+495,Seve (2014),Documentary|Drama,5.085865
+495,The Big Bus (1976),Action|Comedy,5.085865
+495,Saving Face (2004),Comedy|Drama|Romance,5.048083
+496,Come and See (Idi i smotri) (1985),Drama|War,4.3794303
+496,"Jetée, La (1962)",Romance|Sci-Fi,4.360819
+496,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.3541126
+496,On the Beach (1959),Drama,4.3273935
+496,Saving Face (2004),Comedy|Drama|Romance,4.274124
+497,"Jetée, La (1962)",Romance|Sci-Fi,4.5194044
+497,Incendies (2010),Drama|Mystery|War,4.5136957
+497,Come and See (Idi i smotri) (1985),Drama|War,4.490378
+497,On the Beach (1959),Drama,4.4254293
+497,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.3407784
+498,Seve (2014),Documentary|Drama,5.1840563
+498,The Big Bus (1976),Action|Comedy,5.1840563
+498,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.0126605
+498,"Day at the Races, A (1937)",Comedy|Musical,4.967415
+498,Strictly Sexual (2008),Comedy|Drama|Romance,4.946281
+499,On the Beach (1959),Drama,5.4096994
+499,"Jetée, La (1962)",Romance|Sci-Fi,5.1391554
+499,Seve (2014),Documentary|Drama,5.055862
+499,The Big Bus (1976),Action|Comedy,5.055862
+499,Saving Face (2004),Comedy|Drama|Romance,5.053928
+500,On the Beach (1959),Drama,4.4040284
+500,Prisoners (2013),Drama|Mystery|Thriller,4.373422
+500,Living in Oblivion (1995),Comedy,4.3233433
+500,"South Park: Bigger, Longer and Uncut (1999)",Animation|Comedy|Musical,4.297632
+500,Yojimbo (1961),Action|Adventure,4.115634
+501,On the Beach (1959),Drama,4.2396965
+501,Saving Face (2004),Comedy|Drama|Romance,4.159578
+501,Cosmos,(no genres listed),4.1331987
+501,De platte jungle (1978),Documentary,4.0923514
+501,Blue Planet II (2017),Documentary,4.0923514
+502,Stalker (1979),Drama|Mystery|Sci-Fi,5.1279488
+502,On the Beach (1959),Drama,5.087675
+502,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,5.016751
+502,Come and See (Idi i smotri) (1985),Drama|War,5.016106
+502,Seve (2014),Documentary|Drama,5.009708
+503,Seve (2014),Documentary|Drama,4.578089
+503,The Big Bus (1976),Action|Comedy,4.578089
+503,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.4355736
+503,"Jetée, La (1962)",Romance|Sci-Fi,4.400642
+503,Mean Streets (1973),Crime|Drama,4.354037
+504,Saving Face (2004),Comedy|Drama|Romance,4.7932525
+504,On the Beach (1959),Drama,4.7432985
+504,Cosmos,(no genres listed),4.6868744
+504,De platte jungle (1978),Documentary,4.6799726
+504,Blue Planet II (2017),Documentary,4.6799726
+505,On the Beach (1959),Drama,5.3957915
+505,Come and See (Idi i smotri) (1985),Drama|War,5.1963468
+505,"Jetée, La (1962)",Romance|Sci-Fi,5.178985
+505,Seve (2014),Documentary|Drama,5.1597576
+505,The Big Bus (1976),Action|Comedy,5.1597576
+506,Come and See (Idi i smotri) (1985),Drama|War,4.797823
+506,"Jetée, La (1962)",Romance|Sci-Fi,4.7723913
+506,On the Beach (1959),Drama,4.4865985
+506,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,4.441326
+506,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,4.4208302
+507,Saving Face (2004),Comedy|Drama|Romance,4.1249766
+507,On the Beach (1959),Drama,3.9853146
+507,Adam's Rib (1949),Comedy|Romance,3.951263
+507,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,3.9038455
+507,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,3.8994474
+508,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,3.4157948
+508,"Best Exotic Marigold Hotel, The (2011)",Comedy|Drama,3.1481946
+508,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,3.10887
+508,Jezebel (1938),Drama,3.0701635
+508,Hell or High Water (2016),Crime|Drama,3.0688057
+509,Saving Face (2004),Comedy|Drama|Romance,4.4129105
+509,On the Beach (1959),Drama,4.3596835
+509,North & South (2004),Drama|Romance,4.2907887
+509,Cosmos,(no genres listed),4.1857295
+509,Belle époque (1992),Comedy|Romance,4.118218
+510,"Jetée, La (1962)",Romance|Sci-Fi,4.374894
+510,Come and See (Idi i smotri) (1985),Drama|War,4.30952
+510,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,4.1403866
+510,On the Beach (1959),Drama,4.131139
+510,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,4.09046
+511,On the Beach (1959),Drama,5.1657233
+511,Saving Face (2004),Comedy|Drama|Romance,5.035333
+511,"Jetée, La (1962)",Romance|Sci-Fi,4.9813085
+511,Come and See (Idi i smotri) (1985),Drama|War,4.9491196
+511,Belle époque (1992),Comedy|Romance,4.940864
+512,On the Beach (1959),Drama,4.991007
+512,Seve (2014),Documentary|Drama,4.8869867
+512,The Big Bus (1976),Action|Comedy,4.8869867
+512,Cosmos,(no genres listed),4.806691
+512,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.767645
+513,On the Beach (1959),Drama,4.9018993
+513,Seve (2014),Documentary|Drama,4.72633
+513,The Big Bus (1976),Action|Comedy,4.72633
+513,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6002307
+513,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.5849924
+514,On the Beach (1959),Drama,4.685263
+514,Seve (2014),Documentary|Drama,4.418425
+514,The Big Bus (1976),Action|Comedy,4.418425
+514,Saving Face (2004),Comedy|Drama|Romance,4.417644
+514,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.3808894
+515,Saving Face (2004),Comedy|Drama|Romance,5.7038755
+515,On the Beach (1959),Drama,5.65853
+515,Cosmos,(no genres listed),5.478403
+515,Strictly Sexual (2008),Comedy|Drama|Romance,5.4281297
+515,"Jetée, La (1962)",Romance|Sci-Fi,5.424085
+516,Moby Dick (1956),Drama,4.7370105
+516,Saving Face (2004),Comedy|Drama|Romance,4.6048946
+516,Seve (2014),Documentary|Drama,4.5909243
+516,The Big Bus (1976),Action|Comedy,4.5909243
+516,On the Beach (1959),Drama,4.5514884
+517,"Best Exotic Marigold Hotel, The (2011)",Comedy|Drama,4.0222483
+517,Cats (1998),Musical,3.8365169
+517,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",Adventure|Children|Fantasy,3.8350742
+517,The Jungle Book (2016),Adventure|Drama|Fantasy,3.792787
+517,White Christmas (1954),Comedy|Musical|Romance,3.7851021
+518,On the Beach (1959),Drama,5.299055
+518,Saving Face (2004),Comedy|Drama|Romance,5.016448
+518,Cosmos,(no genres listed),4.88237
+518,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.8561654
+518,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.829671
+519,Saving Face (2004),Comedy|Drama|Romance,5.328956
+519,Strictly Sexual (2008),Comedy|Drama|Romance,5.326891
+519,On the Beach (1959),Drama,5.204717
+519,Cosmos,(no genres listed),5.116133
+519,Seve (2014),Documentary|Drama,5.1004276
+520,Saving Face (2004),Comedy|Drama|Romance,5.135408
+520,On the Beach (1959),Drama,5.0892863
+520,Cosmos,(no genres listed),4.808546
+520,Strictly Sexual (2008),Comedy|Drama|Romance,4.7887683
+520,North & South (2004),Drama|Romance,4.783624
+521,On the Beach (1959),Drama,4.821617
+521,Seve (2014),Documentary|Drama,4.811837
+521,The Big Bus (1976),Action|Comedy,4.811837
+521,Saving Face (2004),Comedy|Drama|Romance,4.7464147
+521,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.690357
+522,On the Beach (1959),Drama,5.1614995
+522,"Jetée, La (1962)",Romance|Sci-Fi,4.785253
+522,Louis C.K.: Hilarious (2010),Comedy,4.7402573
+522,Louis C.K.: Live at the Beacon Theater (2011),Comedy,4.696401
+522,Louis C.K.: Shameless (2007),Comedy,4.6746054
+523,Saving Face (2004),Comedy|Drama|Romance,5.6431203
+523,On the Beach (1959),Drama,5.638709
+523,De platte jungle (1978),Documentary,5.599337
+523,Blue Planet II (2017),Documentary,5.599337
+523,Nasu: Summer in Andalusia (2003),Animation,5.599337
+524,On the Beach (1959),Drama,4.8373976
+524,Saving Face (2004),Comedy|Drama|Romance,4.5296893
+524,Cosmos,(no genres listed),4.4998045
+524,Seve (2014),Documentary|Drama,4.482797
+524,The Big Bus (1976),Action|Comedy,4.482797
+525,On the Beach (1959),Drama,4.6873827
+525,Saving Face (2004),Comedy|Drama|Romance,4.610274
+525,North & South (2004),Drama|Romance,4.4299793
+525,Cosmos,(no genres listed),4.428073
+525,Lady Jane (1986),Drama|Romance,4.4244013
+526,Captain Fantastic (2016),Drama,5.017839
+526,On the Beach (1959),Drama,4.9922314
+526,Saving Face (2004),Comedy|Drama|Romance,4.821779
+526,Cosmos,(no genres listed),4.8110194
+526,Belle époque (1992),Comedy|Romance,4.790114
+527,Saving Face (2004),Comedy|Drama|Romance,5.5766554
+527,On the Beach (1959),Drama,5.495692
+527,Cosmos,(no genres listed),5.3068423
+527,De platte jungle (1978),Documentary,5.2224674
+527,Blue Planet II (2017),Documentary,5.2224674
+528,Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro) (2010),Action|Crime|Drama,4.51496
+528,Elite Squad (Tropa de Elite) (2007),Action|Crime|Drama|Thriller,4.4633584
+528,Inside Job (2010),Documentary,4.3365417
+528,On the Beach (1959),Drama,4.3047833
+528,"7th Voyage of Sinbad, The (1958)",Action|Adventure|Fantasy,4.246237
+529,Saving Face (2004),Comedy|Drama|Romance,4.580522
+529,Strictly Sexual (2008),Comedy|Drama|Romance,4.438113
+529,On the Beach (1959),Drama,4.3793926
+529,Come and See (Idi i smotri) (1985),Drama|War,4.3542542
+529,"Visitor, The (2007)",Drama|Romance,4.3460855
+530,Seve (2014),Documentary|Drama,4.774175
+530,The Big Bus (1976),Action|Comedy,4.774175
+530,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.6530247
+530,On the Beach (1959),Drama,4.614872
+530,Saving Face (2004),Comedy|Drama|Romance,4.571223
+531,On the Beach (1959),Drama,4.7237177
+531,Lady Jane (1986),Drama|Romance,4.6255097
+531,Crossing Delancey (1988),Comedy|Romance,4.6255097
+531,"Impostors, The (1998)",Comedy,4.6255097
+531,Saving Face (2004),Comedy|Drama|Romance,4.564602
+532,On the Beach (1959),Drama,5.296375
+532,Saving Face (2004),Comedy|Drama|Romance,4.927263
+532,Cosmos,(no genres listed),4.9080863
+532,"Visitor, The (2007)",Drama|Romance,4.824983
+532,Seve (2014),Documentary|Drama,4.7984347
+533,On the Beach (1959),Drama,5.4268928
+533,Saving Face (2004),Comedy|Drama|Romance,5.3204985
+533,Cosmos,(no genres listed),5.211851
+533,De platte jungle (1978),Documentary,5.1108694
+533,Blue Planet II (2017),Documentary,5.1108694
+534,Saving Face (2004),Comedy|Drama|Romance,5.0972176
+534,On the Beach (1959),Drama,5.024468
+534,Cosmos,(no genres listed),4.9586425
+534,De platte jungle (1978),Documentary,4.947585
+534,Blue Planet II (2017),Documentary,4.947585
+535,On the Beach (1959),Drama,4.373229
+535,Before Sunrise (1995),Drama|Romance,4.2845936
+535,American Beauty (1999),Drama|Romance,4.221086
+535,Captain Fantastic (2016),Drama,4.2027736
+535,Through a Glass Darkly (Såsom i en spegel) (1961),Drama,4.139471
+536,Gigantic (A Tale of Two Johns) (2002),Documentary,4.3983054
+536,Seve (2014),Documentary|Drama,4.3841467
+536,The Big Bus (1976),Action|Comedy,4.3841467
+536,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,4.373653
+536,"Madness of King George, The (1994)",Comedy|Drama,4.3107333
+537,Deathgasm (2015),Comedy|Horror,5.0310826
+537,"Doctor Who: The Doctor, the Widow and the Wardrobe (2011)",Adventure|Drama,4.9166017
+537,Lions For Lambs (2007),Drama|Thriller|War,4.7715673
+537,Inside Job (2010),Documentary,4.766575
+537,Strictly Sexual (2008),Comedy|Drama|Romance,4.7544675
+538,Saving Face (2004),Comedy|Drama|Romance,5.387182
+538,Seve (2014),Documentary|Drama,5.318183
+538,The Big Bus (1976),Action|Comedy,5.318183
+538,On the Beach (1959),Drama,5.2972145
+538,Deathgasm (2015),Comedy|Horror,5.2348933
+539,Strictly Sexual (2008),Comedy|Drama|Romance,5.150996
+539,Saving Face (2004),Comedy|Drama|Romance,4.9958906
+539,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.868624
+539,On the Beach (1959),Drama,4.8316054
+539,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.7651787
+540,On the Beach (1959),Drama,5.292404
+540,"Visitor, The (2007)",Drama|Romance,5.139682
+540,Cosmos,(no genres listed),5.1289783
+540,Saving Face (2004),Comedy|Drama|Romance,5.11172
+540,De platte jungle (1978),Documentary,5.059131
+541,On the Beach (1959),Drama,4.5055375
+541,Thief (1981),Crime|Drama|Thriller,4.4523554
+541,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.4124303
+541,Saving Face (2004),Comedy|Drama|Romance,4.3905287
+541,Seve (2014),Documentary|Drama,4.3720765
+542,Saving Face (2004),Comedy|Drama|Romance,4.6560755
+542,Seve (2014),Documentary|Drama,4.5214643
+542,The Big Bus (1976),Action|Comedy,4.5214643
+542,Bill Hicks: Revelations (1993),Comedy,4.464424
+542,Dylan Moran: Monster (2004),Comedy|Documentary,4.464424
+543,Saving Face (2004),Comedy|Drama|Romance,5.8457255
+543,Titanic (1953),Action|Drama,5.647571
+543,Strictly Sexual (2008),Comedy|Drama|Romance,5.6458087
+543,On the Beach (1959),Drama,5.500086
+543,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.489873
+544,Saving Face (2004),Comedy|Drama|Romance,5.67863
+544,Strictly Sexual (2008),Comedy|Drama|Romance,5.5277276
+544,"Visitor, The (2007)",Drama|Romance,5.2835107
+544,3-Iron (Bin-jip) (2004),Drama|Romance,5.2380257
+544,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,5.232167
+545,Saving Face (2004),Comedy|Drama|Romance,4.8859134
+545,On the Beach (1959),Drama,4.798897
+545,"Last Detail, The (1973)",Comedy|Drama,4.6782975
+545,Cosmos,(no genres listed),4.659131
+545,De platte jungle (1978),Documentary,4.601004
+546,Sorority House Massacre II (1990),Horror,4.8637547
+546,Sorority House Massacre (1986),Horror,4.8637547
+546,Slumber Party Massacre III (1990),Horror,4.8637547
+546,Slumber Party Massacre II (1987),Horror,4.8637547
+546,"Time Machine, The (1960)",Action|Adventure|Sci-Fi,4.4956226
+547,On the Beach (1959),Drama,5.1943355
+547,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,5.1440215
+547,Sullivan's Travels (1941),Adventure|Comedy|Romance,5.016659
+547,Unfaithfully Yours (1948),Comedy,4.898472
+547,"Jetée, La (1962)",Romance|Sci-Fi,4.8867645
+548,Strictly Sexual (2008),Comedy|Drama|Romance,5.3517
+548,3-Iron (Bin-jip) (2004),Drama|Romance,5.0663233
+548,The Jinx: The Life and Deaths of Robert Durst (2015),Documentary,5.0241895
+548,On the Beach (1959),Drama,5.010105
+548,Obsession (1965),Comedy,5.0024014
+549,"Jetée, La (1962)",Romance|Sci-Fi,4.8671527
+549,Come and See (Idi i smotri) (1985),Drama|War,4.7981877
+549,Louis C.K.: Chewed Up (2008),Comedy,4.763653
+549,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,4.5979347
+549,World of Tomorrow (2015),Animation|Comedy,4.5910153
+550,On the Beach (1959),Drama,5.0577784
+550,Saving Face (2004),Comedy|Drama|Romance,5.0568104
+550,"Jetée, La (1962)",Romance|Sci-Fi,4.871872
+550,Come and See (Idi i smotri) (1985),Drama|War,4.8310866
+550,Strictly Sexual (2008),Comedy|Drama|Romance,4.8294244
+551,Strictly Sexual (2008),Comedy|Drama|Romance,4.7479634
+551,Miss Sloane (2016),Thriller,4.713662
+551,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.682775
+551,"Very Potter Sequel, A (2010)",Comedy|Musical,4.5390306
+551,12 Angry Men (1997),Crime|Drama,4.5390306
+552,On the Beach (1959),Drama,4.670038
+552,"Jetée, La (1962)",Romance|Sci-Fi,4.5812044
+552,Come and See (Idi i smotri) (1985),Drama|War,4.4678364
+552,Gallipoli (1981),Drama|War,4.447423
+552,Yojimbo (1961),Action|Adventure,4.339694
+553,On the Beach (1959),Drama,5.208942
+553,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,5.0862703
+553,Cosmos,(no genres listed),5.036622
+553,Saving Face (2004),Comedy|Drama|Romance,4.999472
+553,Belle époque (1992),Comedy|Romance,4.9701686
+554,"Very Potter Sequel, A (2010)",Comedy|Musical,5.233832
+554,12 Angry Men (1997),Crime|Drama,5.233832
+554,Mr. Skeffington (1944),Drama|Romance,5.233832
+554,Adam's Rib (1949),Comedy|Romance,5.1615977
+554,3-Iron (Bin-jip) (2004),Drama|Romance,5.104433
+555,On the Beach (1959),Drama,4.891989
+555,"Man with the Golden Arm, The (1955)",Drama,4.8443804
+555,Polish Wedding (1998),Comedy,4.8443804
+555,Denise Calls Up (1995),Comedy,4.8443804
+555,Saving Face (2004),Comedy|Drama|Romance,4.8411427
+556,Saving Face (2004),Comedy|Drama|Romance,5.3549876
+556,On the Beach (1959),Drama,5.168724
+556,North & South (2004),Drama|Romance,5.085486
+556,Deathgasm (2015),Comedy|Horror,5.0784316
+556,Cosmos,(no genres listed),5.0566926
+557,Saving Face (2004),Comedy|Drama|Romance,4.927463
+557,Strictly Sexual (2008),Comedy|Drama|Romance,4.834661
+557,North & South (2004),Drama|Romance,4.7649
+557,"Very Potter Sequel, A (2010)",Comedy|Musical,4.7242246
+557,12 Angry Men (1997),Crime|Drama,4.7242246
+558,Saving Face (2004),Comedy|Drama|Romance,5.2010384
+558,Strictly Sexual (2008),Comedy|Drama|Romance,5.167848
+558,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.1644106
+558,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,5.117907
+558,Adam's Rib (1949),Comedy|Romance,5.0516186
+559,Saving Face (2004),Comedy|Drama|Romance,4.64449
+559,On the Beach (1959),Drama,4.625891
+559,Cosmos,(no genres listed),4.428546
+559,De platte jungle (1978),Documentary,4.3337812
+559,Blue Planet II (2017),Documentary,4.3337812
+560,On the Beach (1959),Drama,4.7281065
+560,Saving Face (2004),Comedy|Drama|Romance,4.511402
+560,Cosmos,(no genres listed),4.502104
+560,"Jetée, La (1962)",Romance|Sci-Fi,4.39806
+560,De platte jungle (1978),Documentary,4.3902154
+561,On the Beach (1959),Drama,4.764027
+561,"Jetée, La (1962)",Romance|Sci-Fi,4.502753
+561,Saving Face (2004),Comedy|Drama|Romance,4.445254
+561,Seve (2014),Documentary|Drama,4.4253707
+561,The Big Bus (1976),Action|Comedy,4.4253707
+562,Saving Face (2004),Comedy|Drama|Romance,5.2393003
+562,On the Beach (1959),Drama,5.2141175
+562,Cosmos,(no genres listed),5.073145
+562,North & South (2004),Drama|Romance,5.0203567
+562,De platte jungle (1978),Documentary,5.0167236
+563,"Hello, Dolly! (1969)",Comedy|Musical|Romance,4.4199
+563,"Very Potter Sequel, A (2010)",Comedy|Musical,4.2814646
+563,12 Angry Men (1997),Crime|Drama,4.2814646
+563,Mr. Skeffington (1944),Drama|Romance,4.2814646
+563,3-Iron (Bin-jip) (2004),Drama|Romance,4.2748647
+564,Drillbit Taylor (2008),Comedy,4.669902
+564,De platte jungle (1978),Documentary,4.527737
+564,Blue Planet II (2017),Documentary,4.527737
+564,Nasu: Summer in Andalusia (2003),Animation,4.527737
+564,Bitter Lake (2015),Documentary,4.527737
+565,On the Beach (1959),Drama,4.867863
+565,Cosmos,(no genres listed),4.6633463
+565,Saving Face (2004),Comedy|Drama|Romance,4.6507835
+565,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.607109
+565,De platte jungle (1978),Documentary,4.565573
+566,On the Beach (1959),Drama,4.5394244
+566,Saving Face (2004),Comedy|Drama|Romance,4.373245
+566,Seve (2014),Documentary|Drama,4.371367
+566,The Big Bus (1976),Action|Comedy,4.371367
+566,Cosmos,(no genres listed),4.3465543
+567,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",Comedy|Drama,4.7431464
+567,"Jetée, La (1962)",Romance|Sci-Fi,4.614779
+567,Come and See (Idi i smotri) (1985),Drama|War,4.59508
+567,World of Tomorrow (2015),Animation|Comedy,4.5490646
+567,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,4.4617667
+568,On the Beach (1959),Drama,5.305717
+568,Belle époque (1992),Comedy|Romance,5.0358267
+568,Seve (2014),Documentary|Drama,5.035392
+568,The Big Bus (1976),Action|Comedy,5.035392
+568,"Jetée, La (1962)",Romance|Sci-Fi,5.002104
+569,On the Beach (1959),Drama,5.1763363
+569,Saving Face (2004),Comedy|Drama|Romance,5.1617184
+569,Cosmos,(no genres listed),4.997222
+569,De platte jungle (1978),Documentary,4.9169846
+569,Blue Planet II (2017),Documentary,4.9169846
+570,On the Beach (1959),Drama,4.36495
+570,Saving Face (2004),Comedy|Drama|Romance,4.3549533
+570,Cosmos,(no genres listed),4.2102695
+570,De platte jungle (1978),Documentary,4.140356
+570,Blue Planet II (2017),Documentary,4.140356
+571,Come and See (Idi i smotri) (1985),Drama|War,4.23901
+571,Fright Night (1985),Comedy|Horror|Thriller,4.170012
+571,"Jetée, La (1962)",Romance|Sci-Fi,4.148582
+571,Plan 9 from Outer Space (1959),Horror|Sci-Fi,4.0832086
+571,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,4.0292115
+572,On the Beach (1959),Drama,5.0635176
+572,Seve (2014),Documentary|Drama,4.9463716
+572,The Big Bus (1976),Action|Comedy,4.9463716
+572,"Sandpiper, The (1965)",Drama|Romance,4.84681
+572,Guess Who's Coming to Dinner (1967),Drama,4.8389196
+573,On the Beach (1959),Drama,5.451844
+573,Come and See (Idi i smotri) (1985),Drama|War,5.384631
+573,Saving Face (2004),Comedy|Drama|Romance,5.3839655
+573,"Jetée, La (1962)",Romance|Sci-Fi,5.3661766
+573,Cosmos,(no genres listed),5.290877
+574,Saving Face (2004),Comedy|Drama|Romance,5.121018
+574,On the Beach (1959),Drama,5.1045246
+574,Come and See (Idi i smotri) (1985),Drama|War,5.0940175
+574,"Jetée, La (1962)",Romance|Sci-Fi,5.090264
+574,Cosmos,(no genres listed),5.008541
+575,On the Beach (1959),Drama,4.6762238
+575,"Visitor, The (2007)",Drama|Romance,4.627776
+575,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.625356
+575,Seve (2014),Documentary|Drama,4.568421
+575,The Big Bus (1976),Action|Comedy,4.568421
+576,Antonia's Line (Antonia) (1995),Comedy|Drama,4.1719985
+576,Black Mirror: White Christmas (2014),Drama|Horror|Mystery|Sci-Fi|Thriller,4.057033
+576,Love and Death (1975),Comedy,4.0460052
+576,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama,4.0293303
+576,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,3.967253
+577,Seve (2014),Documentary|Drama,4.557006
+577,The Big Bus (1976),Action|Comedy,4.557006
+577,On the Beach (1959),Drama,4.546231
+577,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.426673
+577,Come and See (Idi i smotri) (1985),Drama|War,4.415698
+578,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.493961
+578,Saving Face (2004),Comedy|Drama|Romance,5.424863
+578,Strictly Sexual (2008),Comedy|Drama|Romance,5.4120016
+578,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,5.323168
+578,De platte jungle (1978),Documentary,5.3224235
+579,Saving Face (2004),Comedy|Drama|Romance,5.3655567
+579,Strictly Sexual (2008),Comedy|Drama|Romance,5.2885404
+579,On the Beach (1959),Drama,5.2792025
+579,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,5.1805563
+579,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.149897
+580,On the Beach (1959),Drama,4.6900125
+580,Flickering Lights (Blinkende lygter) (2000),Action|Comedy|Crime,4.675864
+580,Saving Face (2004),Comedy|Drama|Romance,4.5844607
+580,Cosmos,(no genres listed),4.581058
+580,"Visitor, The (2007)",Drama|Romance,4.5561833
+581,On the Beach (1959),Drama,5.045735
+581,Saving Face (2004),Comedy|Drama|Romance,5.0335183
+581,Lady Jane (1986),Drama|Romance,4.9156632
+581,Crossing Delancey (1988),Comedy|Romance,4.9156632
+581,"Impostors, The (1998)",Comedy,4.9156632
+582,Saving Face (2004),Comedy|Drama|Romance,4.8583384
+582,Strictly Sexual (2008),Comedy|Drama|Romance,4.8336315
+582,On the Beach (1959),Drama,4.807888
+582,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,4.677839
+582,North & South (2004),Drama|Romance,4.6216073
+583,"Very Potter Sequel, A (2010)",Comedy|Musical,4.104476
+583,12 Angry Men (1997),Crime|Drama,4.104476
+583,Mr. Skeffington (1944),Drama|Romance,4.104476
+583,Strictly Sexual (2008),Comedy|Drama|Romance,4.0969205
+583,On the Beach (1959),Drama,4.084724
+584,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.2885556
+584,Glory Road (2006),Drama,5.2819853
+584,Thief (1981),Crime|Drama|Thriller,5.2365713
+584,Strictly Sexual (2008),Comedy|Drama|Romance,4.973894
+584,White Squall (1996),Action|Adventure|Drama,4.9586473
+585,On the Beach (1959),Drama,5.254231
+585,Seve (2014),Documentary|Drama,5.1930056
+585,The Big Bus (1976),Action|Comedy,5.1930056
+585,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,5.044328
+585,Cosmos,(no genres listed),5.040353
+586,Saving Face (2004),Comedy|Drama|Romance,5.5617213
+586,Strictly Sexual (2008),Comedy|Drama|Romance,5.522153
+586,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.403948
+586,North & South (2004),Drama|Romance,5.3001156
+586,On the Beach (1959),Drama,5.181101
+587,Saving Face (2004),Comedy|Drama|Romance,5.2478223
+587,On the Beach (1959),Drama,5.225431
+587,Cosmos,(no genres listed),5.011809
+587,North & South (2004),Drama|Romance,4.9728923
+587,De platte jungle (1978),Documentary,4.9105153
+588,On the Beach (1959),Drama,4.487716
+588,"Jetée, La (1962)",Romance|Sci-Fi,4.268916
+588,Seve (2014),Documentary|Drama,4.243007
+588,The Big Bus (1976),Action|Comedy,4.243007
+588,Come and See (Idi i smotri) (1985),Drama|War,4.189902
+589,Come and See (Idi i smotri) (1985),Drama|War,5.165827
+589,Seve (2014),Documentary|Drama,5.1540103
+589,The Big Bus (1976),Action|Comedy,5.1540103
+589,"Jetée, La (1962)",Romance|Sci-Fi,5.1513286
+589,Saving Face (2004),Comedy|Drama|Romance,5.085303
+590,On the Beach (1959),Drama,4.6150227
+590,Seve (2014),Documentary|Drama,4.424258
+590,The Big Bus (1976),Action|Comedy,4.424258
+590,Saving Face (2004),Comedy|Drama|Romance,4.3971868
+590,Victory (a.k.a. Escape to Victory) (1981),Action|Drama|War,4.319568
+591,Strictly Sexual (2008),Comedy|Drama|Romance,4.7371993
+591,Saving Face (2004),Comedy|Drama|Romance,4.6960373
+591,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.6186852
+591,Seve (2014),Documentary|Drama,4.4662685
+591,The Big Bus (1976),Action|Comedy,4.4662685
+592,Saving Face (2004),Comedy|Drama|Romance,4.9239902
+592,On the Beach (1959),Drama,4.875836
+592,Cosmos,(no genres listed),4.776312
+592,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.7703657
+592,De platte jungle (1978),Documentary,4.7435336
+593,On the Beach (1959),Drama,4.3950443
+593,Lady Jane (1986),Drama|Romance,4.301972
+593,Crossing Delancey (1988),Comedy|Romance,4.301972
+593,"Impostors, The (1998)",Comedy,4.301972
+593,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.1376734
+594,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,5.6107793
+594,Strictly Sexual (2008),Comedy|Drama|Romance,5.481631
+594,Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962),Drama|War,5.45817
+594,Thief (1981),Crime|Drama|Thriller,5.3521147
+594,Glory Road (2006),Drama,5.3228807
+595,On the Beach (1959),Drama,5.4858713
+595,Saving Face (2004),Comedy|Drama|Romance,5.285323
+595,Cosmos,(no genres listed),5.194841
+595,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,5.087259
+595,"Visitor, The (2007)",Drama|Romance,5.084959
+596,Saving Face (2004),Comedy|Drama|Romance,4.7903094
+596,On the Beach (1959),Drama,4.613676
+596,Cosmos,(no genres listed),4.4162827
+596,North & South (2004),Drama|Romance,4.402862
+596,"Jetée, La (1962)",Romance|Sci-Fi,4.358247
+597,Come and See (Idi i smotri) (1985),Drama|War,5.536598
+597,"Jetée, La (1962)",Romance|Sci-Fi,5.5294604
+597,On the Beach (1959),Drama,5.3671994
+597,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller,5.18998
+597,Seve (2014),Documentary|Drama,5.1472692
+598,Submarine (2010),Comedy|Drama|Romance,4.924352
+598,Delirium (2014),Adventure|Romance|Sci-Fi,4.88445
+598,Laggies (2014),Comedy|Romance,4.88445
+598,"One I Love, The (2014)",Comedy|Drama|Romance,4.88445
+598,"Lifeguard, The (2013)",Comedy|Drama,4.7814527
+599,On the Beach (1959),Drama,4.2434397
+599,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),Action|Adventure|Animation,3.8485754
+599,"Jetée, La (1962)",Romance|Sci-Fi,3.8351085
+599,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",Action|Animation|Drama|Fantasy|Sci-Fi,3.818754
+599,Cosmos,(no genres listed),3.8057685
+600,Unfaithfully Yours (1948),Comedy,4.8033853
+600,"Holy Mountain, The (Montaña sagrada, La) (1973)",Drama,4.7544346
+600,Love and Death (1975),Comedy,4.383097
+600,Sullivan's Travels (1941),Adventure|Comedy|Romance,4.3513064
+600,"Topo, El (1970)",Fantasy|Western,4.2915797
+601,On the Beach (1959),Drama,5.2739906
+601,Saving Face (2004),Comedy|Drama|Romance,5.236317
+601,Cosmos,(no genres listed),5.083249
+601,Belle époque (1992),Comedy|Romance,4.9986014
+601,De platte jungle (1978),Documentary,4.996396
+602,On the Beach (1959),Drama,4.593343
+602,Seve (2014),Documentary|Drama,4.4144
+602,The Big Bus (1976),Action|Comedy,4.4144
+602,Saving Face (2004),Comedy|Drama|Romance,4.333898
+602,Cosmos,(no genres listed),4.29157
+603,"Jetée, La (1962)",Romance|Sci-Fi,4.9912057
+603,Come and See (Idi i smotri) (1985),Drama|War,4.9858975
+603,Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976),Comedy,4.859326
+603,Duel in the Sun (1946),Drama|Romance|Western,4.83799
+603,Vagabond (Sans toit ni loi) (1985),Drama,4.83799
+604,Saving Face (2004),Comedy|Drama|Romance,4.632763
+604,Ex Drummer (2007),Comedy|Crime|Drama|Horror,4.607147
+604,De platte jungle (1978),Documentary,4.5841208
+604,Blue Planet II (2017),Documentary,4.5841208
+604,Nasu: Summer in Andalusia (2003),Animation,4.5841208
+605,Saving Face (2004),Comedy|Drama|Romance,4.5047097
+605,Strictly Sexual (2008),Comedy|Drama|Romance,4.440673
+605,On the Beach (1959),Drama,4.3959913
+605,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical,4.3864894
+605,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,4.345291
+606,On the Beach (1959),Drama,4.7522116
+606,"Best of Youth, The (La meglio gioventù) (2003)",Drama,4.7358146
+606,Captain Fantastic (2016),Drama,4.651791
+606,Saving Face (2004),Comedy|Drama|Romance,4.6332345
+606,Lady Jane (1986),Drama|Romance,4.6270347
+607,De platte jungle (1978),Documentary,4.8182297
+607,Blue Planet II (2017),Documentary,4.8182297
+607,Nasu: Summer in Andalusia (2003),Animation,4.8182297
+607,Bitter Lake (2015),Documentary,4.8182297
+607,Watermark (2014),Documentary,4.8182297
+608,Saving Face (2004),Comedy|Drama|Romance,4.384869
+608,Obsession (1965),Comedy,4.382353
+608,Empties (2007),Comedy,4.382353
+608,Travels of an Ant (1983),Animation,4.382353
+608,Wow! A Talking Fish! (1983),Animation|Children|Comedy|Fantasy,4.382353
+609,On the Beach (1959),Drama,4.215306
+609,Saving Face (2004),Comedy|Drama|Romance,4.206076
+609,Cosmos,(no genres listed),4.1050043
+609,Seve (2014),Documentary|Drama,4.06697
+609,The Big Bus (1976),Action|Comedy,4.06697
+610,On the Beach (1959),Drama,5.26289
+610,Saving Face (2004),Comedy|Drama|Romance,5.0798473
+610,"Jetée, La (1962)",Romance|Sci-Fi,4.951924
+610,Cosmos,(no genres listed),4.95038
+610,Belle époque (1992),Comedy|Romance,4.864653
